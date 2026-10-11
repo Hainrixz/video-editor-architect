@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"generado_en": "1970-01-01T00:00:00.000Z",
+	"generado_por": "herramientas/sfx/catalogar.ts",
+	"normalizacion": {},
+	"reglas": {},
+	"eventos": {
+		"sticker": [],
+		"tarjeta": [],
+		"insert": [],
+		"zoom": [],
+		"titular": []
+	},
+	"categorias": {},
+	"inventario": {},
+	"pendientes": [],
+	"casi_iguales": [],
+	"descartados": [],
+	"archivos": []
+}

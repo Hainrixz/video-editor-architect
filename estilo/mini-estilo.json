@@ -1,0 +1,135 @@
+{
+	"_nota": {
+		"es": "Mini-estilo genérico de subtítulos (respaldo de subtitulos.ts cuando no hay estilo/estilo.json). No está medido en tus reels (n = 0). /aprender-estilo lo reemplaza.",
+		"en": "Generic subtitle mini-style (subtitulos.ts fallback when there is no estilo/estilo.json). Not measured on your reels (n = 0). /aprender-estilo replaces it."
+	},
+	"version": 1,
+	"fuente": "plantilla",
+	"generado_por": "plantilla",
+	"n_reels": 0,
+	"franja": {
+		"y_p10": {
+			"valor": 1495.6,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja)"
+		},
+		"y_p50": {
+			"valor": 1498.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja)"
+		},
+		"y_p90": {
+			"valor": 1501.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja)"
+		}
+	},
+	"ancho_p90": {
+		"valor": 472.05,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "px base 1080 (ancho de la caja)"
+	},
+	"alto_mayuscula_p50": {
+		"valor": 43,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "px base 1920"
+	},
+	"color_texto": {
+		"valor": "#FEFBFF",
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "hex sRGB (mediana en Lab)"
+	},
+	"color_borde": {
+		"valor": "#040001",
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "hex sRGB (mediana en Lab)"
+	},
+	"grosor_borde_p50": {
+		"valor": 3.94,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "px base 1920 (borde visible)"
+	},
+	"palabras_por_evento": {
+		"p10": {
+			"valor": 1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "palabras"
+		},
+		"p50": {
+			"valor": 2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "palabras"
+		},
+		"p90": {
+			"valor": 4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "palabras"
+		}
+	},
+	"duracion_evento": {
+		"p10": {
+			"valor": 0.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s"
+		},
+		"p50": {
+			"valor": 0.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s"
+		},
+		"p90": {
+			"valor": 0.77,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s"
+		}
+	},
+	"mayusculas": {
+		"valor": 0,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "% de eventos con todas sus letras en MAYÚSCULAS (sumando todos los eventos)"
+	},
+	"una_linea": {
+		"valor": 99.4,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "% de eventos en una sola línea"
+	},
+	"resaltado": {
+		"valor": 0,
+		"n": 0,
+		"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+		"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+		"unidad": "% de eventos con alguna palabra de otro color (ΔE2000 > 20 y croma ≥ 20), más peso (trazo ≥ ×1.25 con el mismo contorno) o más escala (trazo y contorno ≥ ×1.2)"
+	}
+}

@@ -1,0 +1,50 @@
+# Dependencias y entornos / Dependencies and environments
+node_modules/
+.venv/
+herramientas/bin/
+__pycache__/
+
+# Llaves y configuración local (nunca se versionan) / Keys and local config (never committed)
+.env*
+!.env.remotion
+!.env.example
+
+# Tu material y las salidas (pesan y pueden traer datos sensibles) / Your footage and outputs
+entrada/
+proyectos/
+referencias/
+demos/
+out/
+pruebas/fixtures/
+
+# Binarios de la biblioteca: cada quien pone los suyos, su licencia va en biblioteca/LICENCIAS.md
+# Library binaries: each creator adds their own; licenses go in biblioteca/LICENCIAS.md
+biblioteca/**/*.mp4
+biblioteca/**/*.mov
+biblioteca/**/*.webm
+biblioteca/**/*.mp3
+biblioteca/**/*.wav
+biblioteca/**/*.m4a
+biblioteca/**/*.png
+biblioteca/**/*.jpg
+biblioteca/**/*.jpeg
+biblioteca/**/*.webp
+biblioteca/**/*.gif
+biblioteca/**/*.svg
+biblioteca/**/*.ttf
+biblioteca/**/*.otf
+biblioteca/**/*.woff
+biblioteca/**/*.woff2
+
+# Sistema / System
+.DS_Store
+Thumbs.db
+
+# Snapshots de playwright-cli
+.playwright-cli/
+
+# creador.json, estilo/ y ESTADO.md SÍ se versionan: son tu perfil y tu estilo.
+# creador.json, estilo/ and ESTADO.md ARE committed: they are your profile and your style.
+
+# Accesos de Remotion: los crea `npm ci` (herramientas/preparar-public.ts) según el sistema.
+/public/

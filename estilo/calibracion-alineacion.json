@@ -1,0 +1,32 @@
+{
+	"_nota": {
+		"es": "Calibración técnica del motor (no es estilo): alineador forzado elegido y su corrección k. Ojo con la licencia del modelo (uso no comercial). No depende del creador.",
+		"en": "Engine technical calibration (not style): chosen forced aligner and its k correction. Mind the model license (non-commercial use). It does not depend on the creator."
+	},
+	"variante": "a",
+	"nombre": "MMS-300m forced aligner · romanizado · ONNX",
+	"modelo": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+	"motor": "onnx",
+	"dispositivo": "cpu",
+	"romanizar": true,
+	"normalizar_audio": true,
+	"origen_pesos": "deskpai/ctc_forced_aligner/04ac86b67129634da93aea76e0147ef3.onnx@77d85f9ffa",
+	"licencia": "CC-BY-NC-4.0 (MahmoudAshraf/mms-300m-1130-forced-aligner y su export deskpai/ctc_forced_aligner): uso no comercial",
+	"k_ms": 10,
+	"N": 74,
+	"p50_ms": 21.8,
+	"p95_ms": 213.3,
+	"pasa": false,
+	"criterio": {
+		"p50_ms": 25,
+		"p95_ms": 45
+	},
+	"n_minimo": 40,
+	"respaldo_whisper": {
+		"regla": "sin letras alineables, o score < score_minimo y |inicio − Whisper| > max_desvio_s",
+		"score_minimo": 0.01,
+		"max_desvio_s": 0.3
+	},
+	"convencion_tiempo": "d = primer cuadro de la primera letra × 20 ms; h = (último cuadro de la última letra + 1) × 20 ms",
+	"percentiles": "interpolación lineal entre rangos"
+}

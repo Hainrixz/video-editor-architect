@@ -1,0 +1,45 @@
+{
+  "name": "video-editor-architect",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI reel editor: Claude directs, Remotion renders. / Editor de reels con IA: Claude dirige, Remotion renderiza.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "doctor": "tsx herramientas/doctor.ts",
+    "preparar": "tsx herramientas/preparar-public.ts",
+    "postinstall": "tsx herramientas/preparar-public.ts"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/fonts": "4.0.532",
+    "@remotion/layout-utils": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "@remotion/media-utils": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "@remotion/bundler": "4.0.532",
+    "@remotion/zod-types": "4.0.532",
+    "@resvg/resvg-js": "2.6.2",
+    "fontkit": "2.0.4",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@playwright/cli": "0.1.22",
+    "@types/node": "24.19.1",
+    "@types/react": "19.2.7",
+    "playwright": "1.63.0",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}

@@ -1,0 +1,28 @@
+# Pruebas del motor en macOS y Windows. / Engine tests on macOS and Windows.
+# Solo corre a mano (Actions → CI → Run workflow) para no gastar minutos sin querer.
+# Runs only by hand (Actions → CI → Run workflow) so it never spends minutes by surprise.
+# Para usarlo: cópialo a .github/workflows/ci.yml (necesitas el permiso `workflow` de GitHub: `gh auth refresh -s workflow`).
+# To use it: copy it to .github/workflows/ci.yml (needs GitHub's `workflow` scope: `gh auth refresh -s workflow`).
+# Para que corra en cada push, agrega `push:` y `pull_request:` bajo `on:`.
+name: CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pruebas:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npx tsc --noEmit
+      - run: npx vitest run

@@ -1,0 +1,16 @@
+{
+	"_nota": "Registro de estilos de edición del creador / Registry of the creator's editing styles. Estados / states: base, en-prueba, aprobado, descartado (los descartados no se ofrecen al editar / discarded ones are not offered when editing). Al editar: si el creador nombra el estilo se usa ese; si no, Claude pregunta cuál / When editing: if the creator names a style, use it; otherwise ask which one.",
+	"oficial": null,
+	"estilos": [
+		{
+			"id": "base-neutra",
+			"nombre": "Base neutra",
+			"carpeta": "estilo/estilos/base-neutra",
+			"estado": "base",
+			"desde": null,
+			"referencia": null,
+			"resumen": "Arranque genérico / generic starter: subtítulos blancos con borde negro de 2–3 palabras abajo, tarjetas de palabra clave, sin stickers ni memes, velocidad 1.0, corta silencios.",
+			"version": 1
+		}
+	]
+}

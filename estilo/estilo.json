@@ -1,0 +1,1811 @@
+{
+	"_nota": {
+		"es": "Punto de partida genérico de la plantilla: estructura y números agregados (posiciones, tamaños, ritmos, percentiles) sin datos de ningún creador. Ningún número está medido en tus reels (n = 0, fuente \"supuesto\"). /aprender-estilo lo reemplaza con lo medido en tus propios reels.",
+		"en": "Generic starting point of the template: structure and aggregate numbers (positions, sizes, pace, percentiles) with no creator data. No number is measured on your reels (n = 0, source \"supuesto\"). /aprender-estilo replaces it with what it measures on your own reels."
+	},
+	"version": "0.0.0-plantilla",
+	"esquema": 1,
+	"generado_en": "plantilla",
+	"generado_por": "plantilla genérica (sin reels medidos) / generic template (no measured reels)",
+	"aprobado": false,
+	"corpus": {},
+	"muestra": {},
+	"subtitulos": {
+		"franja": {
+			"y_p10": {
+				"valor": 1495.4,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja; p10 de cada reel)",
+				"p10": 1481.6,
+				"p90": 1495.9
+			},
+			"y_p50": {
+				"valor": 1498.5,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja; p50 de cada reel)",
+				"p10": 1496.9,
+				"p90": 1499.4
+			},
+			"y_p90": {
+				"valor": 1502.7,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja; p90 de cada reel)",
+				"p10": 1500.9,
+				"p90": 1503.5
+			}
+		},
+		"ancho_p90": {
+			"valor": 450.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (ancho de la caja; p90 de cada reel)",
+			"p10": 425.8,
+			"p90": 503.1
+		},
+		"alto_mayuscula_p50": {
+			"valor": 42.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (caja de Vision ÷ 1.38)",
+			"p10": 39.1,
+			"p90": 45.7
+		},
+		"grosor_borde_p50": {
+			"valor": 4.13,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (borde visible)",
+			"p10": 3.75,
+			"p90": 5.25
+		},
+		"color_texto": {
+			"valor": "#FFFDFE",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex sRGB (mediana en Lab)"
+		},
+		"color_borde": {
+			"valor": "#060102",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex sRGB (mediana en Lab)"
+		},
+		"palabras_por_evento": {
+			"p10": {
+				"valor": 1,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "palabras",
+				"p10": 1,
+				"p90": 1
+			},
+			"p50": {
+				"valor": 2,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "palabras",
+				"p10": 2,
+				"p90": 2
+			},
+			"p90": {
+				"valor": 3,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "palabras",
+				"p10": 3,
+				"p90": 4.8
+			}
+		},
+		"duracion_evento": {
+			"p10": {
+				"valor": 0.3,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.253,
+				"p90": 0.333
+			},
+			"p50": {
+				"valor": 0.5,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.467,
+				"p90": 0.567
+			},
+			"p90": {
+				"valor": 0.767,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.7,
+				"p90": 0.833
+			}
+		},
+		"mayusculas": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de subtítulos con todas sus letras en MAYÚSCULAS",
+			"p10": 0,
+			"p90": 0
+		},
+		"una_linea": {
+			"valor": 100,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de subtítulos en una sola línea",
+			"p10": 99.3,
+			"p90": 100
+		},
+		"resaltado": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de subtítulos con alguna palabra de otro color, peso o escala",
+			"p10": 0,
+			"p90": 0
+		},
+		"puntuacion": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de subtítulos con signos de puntuación (.,;:!?¿¡…)",
+			"p10": 0,
+			"p90": 22.8
+		},
+		"adelanto_cuadros": {
+			"valor": 1.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "cuadros de 30 fps que el subtítulo aparece ANTES de que empieces la palabra (inicio de la 1.ª palabra − inicio del subtítulo)",
+			"p10": -0.3,
+			"p90": 2.5
+		},
+		"ancho_max": {
+			"valor": 450.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (ancho de la caja; p90 de cada reel)",
+			"p10": 425.8,
+			"p90": 503.1
+		},
+		"y_p50": {
+			"valor": 1498.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja; p50 de cada reel)",
+			"p10": 1496.9,
+			"p90": 1499.4
+		},
+		"quitar_puntuacion": {
+			"valor": true,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "¿quitar la puntuación? (sí si < 50 % de tus subtítulos la traen)",
+			"pct_con_puntuacion": 0
+		},
+		"tipografia": {
+			"valor": "inter",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"nombre": "Inter"
+		},
+		"peso": {
+			"valor": 800,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "peso de la instancia más parecida"
+		},
+		"config": {
+			"fuente": "inter",
+			"peso": 800,
+			"tamano_px": 58.69,
+			"color": "#FFFDFE",
+			"borde_px": 4.13,
+			"color_borde": "#060102",
+			"x": 540,
+			"y": 1498.5,
+			"ancho_max": 450.1,
+			"mayusculas": false,
+			"quitar_puntuacion": true,
+			"resaltado": {
+				"activo": false
+			}
+		}
+	},
+	"franja_subtitulos": {
+		"y_p10": {
+			"valor": 1495.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja; p10 de cada reel)",
+			"p10": 1481.6,
+			"p90": 1495.9
+		},
+		"y_p50": {
+			"valor": 1498.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja; p50 de cada reel)",
+			"p10": 1496.9,
+			"p90": 1499.4
+		},
+		"y_p90": {
+			"valor": 1502.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja; p90 de cada reel)",
+			"p10": 1500.9,
+			"p90": 1503.5
+		},
+		"ancho_p90": {
+			"valor": 450.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (ancho de la caja; p90 de cada reel)",
+			"p10": 425.8,
+			"p90": 503.1
+		},
+		"alto_mayuscula": {
+			"valor": 42.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (caja de Vision ÷ 1.38)",
+			"p10": 39.1,
+			"p90": 45.7
+		},
+		"borde": {
+			"valor": 4.13,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (borde visible)",
+			"p10": 3.75,
+			"p90": 5.25
+		}
+	},
+	"titular": {
+		"pct_reels_con_titular": {
+			"valor": 91.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de reels con titular fijo (≥ 70 % del video)"
+		},
+		"pct_en_caja": {
+			"valor": 31.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de titulares en caja blanca con texto negro (el resto: blanco con contorno negro)"
+		},
+		"n_lineas": {
+			"valor": 2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "líneas",
+			"p10": 2,
+			"p90": 2
+		},
+		"y": {
+			"valor": 323.6,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de las mayúsculas del 1.er renglón: línea base − media mayúscula)",
+			"p10": 273.6,
+			"p90": 445.4
+		},
+		"y_caja": {
+			"valor": 331.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja de Vision del 1.er renglón)",
+			"p10": 279.8,
+			"p90": 449.4
+		},
+		"y_abajo": {
+			"valor": 453.9,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (orilla de abajo del último renglón)",
+			"p10": 390.3,
+			"p90": 568.3
+		},
+		"interlineado": {
+			"valor": 84.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (centro a centro)",
+			"p10": 74,
+			"p90": 97.1
+		},
+		"alto_mayuscula": {
+			"valor": 52.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (relleno de la 1.ª mayúscula, sin contorno)",
+			"p10": 47.3,
+			"p90": 57.4
+		},
+		"ancho_max": {
+			"valor": 726.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (renglón más ancho)",
+			"p10": 701.1,
+			"p90": 800.2
+		},
+		"contorno_grosor": {
+			"valor": 3.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (contorno visible)",
+			"p10": 3.38,
+			"p90": 4.36
+		},
+		"peso_trazo": {
+			"valor": 0.206,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "trazo ÷ alto de mayúscula",
+			"p10": 0.189,
+			"p90": 0.23
+		},
+		"color": {
+			"valor": "#FFFFFF",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex"
+		},
+		"contorno_color": {
+			"valor": "#020000",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex"
+		},
+		"sombra": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de titulares con halo oscuro en todas sus líneas"
+		},
+		"config": {
+			"fuente": "instrument-sans",
+			"peso": 700,
+			"alto_mayuscula_px": 52.5,
+			"color": "#FFFFFF",
+			"borde_px": 4.15,
+			"color_borde": "#020000",
+			"x": 540,
+			"y": 323.6,
+			"interlineado_px": 84.3,
+			"ancho_max": 800.2,
+			"sombra": {
+				"activa": false
+			}
+		}
+	},
+	"tarjetas": {
+		"por_minuto": {
+			"valor": 21.79,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "tarjetas por minuto (los reels sin tarjetas cuentan como 0)",
+			"p10": 0,
+			"p90": 35.64
+		},
+		"por_min": {
+			"valor": 21.79,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "tarjetas por minuto (los reels sin tarjetas cuentan como 0)",
+			"p10": 0,
+			"p90": 35.64
+		},
+		"duracion_s": {
+			"p10": {
+				"valor": 0.6,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p10 de cada reel)",
+				"p10": 0.4,
+				"p90": 1.5
+			},
+			"p50": {
+				"valor": 0.833,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p50 de cada reel)",
+				"p10": 0.667,
+				"p90": 1.5
+			},
+			"p90": {
+				"valor": 1.5,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p90 de cada reel)",
+				"p10": 1.053,
+				"p90": 2.9
+			}
+		},
+		"centro_y": {
+			"p10": {
+				"valor": 1263.8,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja)",
+				"p10": 1183,
+				"p90": 1307
+			},
+			"p50": {
+				"valor": 1280.8,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja)",
+				"p10": 1219.3,
+				"p90": 1307.6
+			},
+			"p90": {
+				"valor": 1292.3,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1920 (centro de la caja)",
+				"p10": 1251.2,
+				"p90": 1314.3
+			}
+		},
+		"desfase_habla_cuadros": {
+			"p10": {
+				"valor": -5,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "cuadros de 30 fps (aparición − inicio de la palabra que coincide; negativo = antes)",
+				"p10": -8,
+				"p90": -3
+			},
+			"p50": {
+				"valor": -1,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "cuadros de 30 fps (aparición − inicio de la palabra que coincide; negativo = antes)",
+				"p10": -3,
+				"p90": 0
+			},
+			"p90": {
+				"valor": 2,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "cuadros de 30 fps",
+				"p10": -1,
+				"p90": 6.8
+			}
+		},
+		"palabras_p50": {
+			"valor": 2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "palabras por tarjeta",
+			"p10": 1,
+			"p90": 3
+		},
+		"pct_literal": {
+			"valor": 82.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas cuyo texto dijiste tal cual",
+			"p10": 66.7,
+			"p90": 100
+		},
+		"pct_parafraseo": {
+			"valor": 17,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas que parafrasean lo dicho",
+			"p10": 0,
+			"p90": 31.3
+		},
+		"pct_sin_coincidencia": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas sin palabra dicha en ±2 s",
+			"p10": 0,
+			"p90": 11.1
+		},
+		"pct_con_digitos": {
+			"valor": 6.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas con dígitos",
+			"p10": 0,
+			"p90": 22.2
+		},
+		"pct_numeros_en_digitos": {
+			"valor": 100,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas con un número dicho que lo ponen en dígitos",
+			"p10": 100,
+			"p90": 100
+		},
+		"pct_en_listas": {
+			"valor": 45.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas que van en una lista (varias a la vez)",
+			"p10": 0,
+			"p90": 100
+		},
+		"listas_por_reel": {
+			"valor": 1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "listas por reel",
+			"p10": 0,
+			"p90": 2
+		},
+		"disposicion_listas": {
+			"valor": {
+				"vertical": 16,
+				"horizontal": 0,
+				"mixta": 28
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "listas por disposición (vertical = una debajo de otra, horizontal = lado a lado, mixta = árbol: 1 arriba y varias abajo)"
+		},
+		"pct_grande": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas grandes (mayúscula ≥ 1.4 × la del reel)",
+			"p10": 0,
+			"p90": 4.3
+		},
+		"pct_escritura": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% que se escriben letra por letra",
+			"p10": 0,
+			"p90": 0
+		},
+		"pct_emoji": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% con emoji o ícono de color",
+			"p10": 0,
+			"p90": 100
+		},
+		"pct_mayuscula_inicial": {
+			"valor": 96.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% que empiezan con mayúscula",
+			"p10": 80,
+			"p90": 100
+		},
+		"pct_entrada_corte": {
+			"valor": 96.2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% que entran con corte seco",
+			"p10": 93.8,
+			"p90": 100
+		},
+		"pct_salida_corte": {
+			"valor": 100,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% que salen con corte seco",
+			"p10": 96.2,
+			"p90": 100
+		},
+		"tipos_total": {
+			"valor": {
+				"clave": 404,
+				"cifra": 75,
+				"frase": 249,
+				"producto": 49,
+				"comando": 2
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "tarjetas por tipo de palabra"
+		},
+		"con_sfx": {
+			"valor": 84,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de tarjetas con un SFX a ±3 cuadros de su aparición (sin corregir por azar)",
+			"p10": 0,
+			"p90": 100
+		},
+		"alto_mayuscula": {
+			"valor": 52.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (tarjetas normales: ni grandes ni en lista)",
+			"p10": 48,
+			"p90": 54.8
+		},
+		"alto_caja_1_renglon": {
+			"valor": 118.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (1 renglón, no grandes)",
+			"p10": 102.8,
+			"p90": 118.6
+		},
+		"ancho_p50": {
+			"valor": 448.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080",
+			"p10": 336,
+			"p90": 542.6
+		},
+		"ancho_max_observado": {
+			"valor": 763.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (la tarjeta más ancha del reel)",
+			"p10": 652.8,
+			"p90": 851.3
+		},
+		"pad_arriba": {
+			"valor": 29.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (línea de mayúsculas → orilla de arriba, 1 renglón)",
+			"p10": 24.6,
+			"p90": 32.3
+		},
+		"pad_abajo": {
+			"valor": 35.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (línea base → orilla de abajo, 1 renglón)",
+			"p10": 32.3,
+			"p90": 36.4
+		},
+		"pad_lados": {
+			"valor": 23.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (tinta → orilla, izquierda/derecha)",
+			"p10": 21.6,
+			"p90": 24.6
+		},
+		"radio": {
+			"valor": 15.9,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base",
+			"p10": 15.1,
+			"p90": 17.1
+		},
+		"interlineado": {
+			"valor": 76.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (alto de 2 renglones − alto de 1)",
+			"p10": 52.4,
+			"p90": 91.1
+		},
+		"escala_grande": {
+			"valor": 1.415,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "× la mayúscula de las normales del reel",
+			"p10": 1.4,
+			"p90": 1.79
+		},
+		"escala_lista": {
+			"valor": 0.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "× la mayúscula de las normales del reel",
+			"p10": 0.615,
+			"p90": 0.855
+		},
+		"separacion_lista": {
+			"valor": 30.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base (hueco entre filas de una lista)",
+			"p10": 19.2,
+			"p90": 39.5
+		},
+		"peso_trazo": {
+			"valor": 0.214,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "trazo ÷ alto de mayúscula",
+			"p10": 0.187,
+			"p90": 0.219
+		},
+		"color_caja": {
+			"valor": "#FEFEFE",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex (mediana en Lab)"
+		},
+		"color_texto": {
+			"valor": "#020002",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "hex (mediana en Lab)"
+		},
+		"y": {
+			"valor": 1280.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja)",
+			"p10": 1219.3,
+			"p90": 1307.6
+		},
+		"desfase_s": {
+			"valor": -0.033,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s (aparición de la tarjeta − inicio de tu palabra; negativo = antes)",
+			"de": "tarjetas.desfase_habla_cuadros.p50 ÷ 30"
+		},
+		"config": {
+			"fuente": "inter",
+			"peso": 700,
+			"alto_mayuscula_px": 52.5,
+			"color_texto": "#020002",
+			"color_fondo": "#FEFEFE",
+			"pad_arriba_px": 29.8,
+			"pad_abajo_px": 35.5,
+			"pad_lados_px": 21.5,
+			"radio_px": 15.9,
+			"interlineado_px": 76.5,
+			"x": 540,
+			"y": 1280.8,
+			"escala_grande": 1.415,
+			"escala_lista": 0.75,
+			"separacion_px": 30.1,
+			"entrada": "corte"
+		}
+	},
+	"stickers": {
+		"por_minuto": {
+			"valor": 5.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "stickers por minuto (los reels sin stickers cuentan como 0)",
+			"p10": 0,
+			"p90": 10.78
+		},
+		"por_min": {
+			"valor": 5.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "stickers por minuto (los reels sin stickers cuentan como 0)",
+			"p10": 0,
+			"p90": 10.78
+		},
+		"duracion_s": {
+			"p10": {
+				"valor": 0.613,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.333,
+				"p90": 0.97
+			},
+			"p50": {
+				"valor": 0.767,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.633,
+				"p90": 1.15
+			},
+			"p90": {
+				"valor": 1.033,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s",
+				"p10": 0.787,
+				"p90": 1.534
+			}
+		},
+		"ancho_px": {
+			"p10": {
+				"valor": 277,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1080 (caja visible con su borde)",
+				"p10": 202,
+				"p90": 378
+			},
+			"p50": {
+				"valor": 340,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1080 (caja visible con su borde)",
+				"p10": 276,
+				"p90": 496
+			},
+			"p90": {
+				"valor": 388,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "px base 1080 (caja visible con su borde)",
+				"p10": 335,
+				"p90": 619
+			}
+		},
+		"centro_y": {
+			"valor": 1256,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de la caja)",
+			"p10": 1218,
+			"p90": 1280
+		},
+		"centro_x": {
+			"valor": 540,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (centro de la caja)",
+			"p10": 540,
+			"p90": 545
+		},
+		"pop": {
+			"cuadros": {
+				"valor": 5,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "cuadros de 30 fps del primer cuadro visible a escala 1 (medido a los fps nativos)",
+				"p10": 3,
+				"p90": 5
+			},
+			"escala_inicial": {
+				"valor": 0.58,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "escala del primer cuadro visible",
+				"p10": 0.58,
+				"p90": 0.75
+			},
+			"sobrepaso": {
+				"valor": 0,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "máximo de escala − 1 durante la entrada",
+				"p10": 0,
+				"p90": 0
+			}
+		},
+		"con_sfx": {
+			"valor": 25,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de stickers con un SFX a ±3 cuadros de su aparición (sin corregir por azar; mínimo, ver nota)",
+			"p10": 0,
+			"p90": 58.3
+		},
+		"config": {
+			"entrada": "pop",
+			"pop": {
+				"cuadros": 6,
+				"escalaInicial": 0.496,
+				"opacidadInicial": 0.83,
+				"cuadrosOpacidad": 1
+			},
+			"salida": "corte",
+			"ancho_px": 340
+		}
+	},
+	"inserts": {
+		"por_minuto": {
+			"valor": 3.83,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "inserts por minuto (tarjeta + pantalla completa)",
+			"p10": 0,
+			"p90": 14.79
+		},
+		"por_min": {
+			"valor": 3.83,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "inserts por minuto (tarjeta + pantalla completa)",
+			"p10": 0,
+			"p90": 14.79
+		},
+		"secuencias_por_minuto": {
+			"valor": 2.87,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "secuencias de inserts a pantalla completa por minuto (tomas pegadas = una)",
+			"p10": 0,
+			"p90": 6.05
+		},
+		"pct_pantalla_completa": {
+			"valor": 98.6,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de inserts a pantalla completa (el resto va en tarjeta)",
+			"pantalla_completa": 138,
+			"tarjeta": 2
+		},
+		"duracion_s": {
+			"p10": {
+				"valor": 0.823,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p10 de cada reel)",
+				"p10": 0.393,
+				"p90": 1.18
+			},
+			"p50": {
+				"valor": 1.384,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p50 de cada reel)",
+				"p10": 0.984,
+				"p90": 2.7
+			},
+			"p90": {
+				"valor": 2.347,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "s (p90 de cada reel)",
+				"p10": 1.73,
+				"p90": 4.22
+			}
+		},
+		"tarjeta_centro_y": {
+			"valor": 940,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920 (centro de los inserts en tarjeta)",
+			"p10": 920,
+			"p90": 960
+		},
+		"tarjeta_ancho": {
+			"valor": 888,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080 (ancho de los inserts en tarjeta)",
+			"p10": 800,
+			"p90": 976
+		},
+		"config": {
+			"tarjeta": {
+				"x": 540,
+				"y": 940,
+				"ancho_px": 888
+			}
+		}
+	},
+	"zooms": {
+		"por_minuto": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "zooms de edición por minuto (confirmados por el fondo)",
+			"p10": 0,
+			"p90": 0
+		},
+		"por_min": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "zooms de edición por minuto (confirmados por el fondo)",
+			"p10": 0,
+			"p90": 0
+		},
+		"escala_p50": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		}
+	},
+	"efectos": {
+		"desenfoque_por_minuto": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "desenfoques de énfasis por minuto (nitidez < 50 % de su mediana)",
+			"p10": 0,
+			"p90": 0
+		},
+		"desenfoque_por_min": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "desenfoques de énfasis por minuto (nitidez < 50 % de su mediana)",
+			"p10": 0,
+			"p90": 0
+		},
+		"desenfoque_duracion_s": {
+			"valor": 0.467,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s"
+		}
+	},
+	"sfx": {
+		"prob_silencio": {
+			"valor": 0.35,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "probabilidad de que una capa salga SIN sonido: 1 − (con SFX − al azar) / (1 − al azar), por reel",
+			"p10": 0.245,
+			"p90": 0.924
+		},
+		"prob_silencio_lateral_limpio": {
+			"valor": 0.245,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "probabilidad de que una capa salga SIN sonido (control de calidad del detector)",
+			"p10": 0.135,
+			"p90": 0.694
+		},
+		"pct_capas_con_sfx": {
+			"valor": 69.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de capas con un onset a ±3 cuadros de su aparición (sin corregir)",
+			"p10": 11.1,
+			"p90": 81.6
+		},
+		"pct_esperado_al_azar": {
+			"valor": 12.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% del video a ±3 cuadros de algún onset (lo que coincidiría por azar)",
+			"p10": 3.9,
+			"p90": 25.1
+		},
+		"pct_capas_con_sfx_corregido": {
+			"valor": 65,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de capas con SFX después de quitar lo que coincidiría por azar",
+			"p10": 7.6,
+			"p90": 75.5
+		},
+		"offset_cuadros": {
+			"valor": [
+				0,
+				0
+			],
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "cuadros de 30 fps (lo que usa el selector): la parte de tu rango medido [0, 1] que cumple la regla del plan [-2, 0]",
+			"medido": [
+				0,
+				1
+			],
+			"p10": -1.06,
+			"p25": -0.42,
+			"p50": 0.47,
+			"p75": 1.43,
+			"p90": 1.81
+		},
+		"offset_medido_cuadros": {
+			"valor": [
+				0,
+				1
+			],
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "cuadros de 30 fps que el SFX arranca respecto al primer cuadro visible de la capa: [p25, p75] redondeados (positivo = después)",
+			"p10": -1.06,
+			"p25": -0.42,
+			"p50": 0.47,
+			"p75": 1.43,
+			"p90": 1.81
+		},
+		"nivel_lu": {
+			"valor": -0.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "LU: sonoridad momentánea máx. del SFX (resta de potencias) − LUFS integrado de tu voz; p50 de cada reel",
+			"p10": -1.4,
+			"p90": 0.7
+		},
+		"nivel_lu_eventos": {
+			"valor": -1.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "LU (cada SFX cuenta igual)",
+			"p10": -5.8,
+			"p90": 2.4
+		},
+		"nivel_rms_db": {
+			"valor": 5.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "dB: RMS de 100 ms en el SFX (mezcla con tu voz) − mediana del RMS de 100 ms de tu voz; p50 de cada reel",
+			"p10": 4.5,
+			"p90": 6.1
+		},
+		"ganancia_db": {
+			"valor": [
+				-1.4,
+				0.7
+			],
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "LU respecto a tu voz (sonoridad momentánea máx. del SFX − LUFS integrado de la voz): [p10, p90] entre reels del centro de cada reel",
+			"variacion_db": 3.5,
+			"centro": -0.1
+		},
+		"eventos_por_video": {
+			"valor": [
+				13,
+				87
+			],
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "capas por video: [p10, p90] entre reels con alguna capa",
+			"p50": 38
+		},
+		"huecos_entre_sfx_s": {
+			"valor": 2.13,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s entre apariciones con sonido (p50 de cada reel)"
+		},
+		"fuentes_de_onset_por_clase": {
+			"valor": {
+				"tarjeta": {
+					"agudos": 639,
+					"clic": 102,
+					"lateral": 95,
+					"golpe": 6,
+					"tono": 3
+				},
+				"sticker": {
+					"lateral": 80,
+					"agudos": 49,
+					"clic": 36
+				},
+				"insert": {
+					"agudos": 52,
+					"lateral": 13,
+					"clic": 4
+				}
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "cuántos SFX vio cada detector, por clase de capa (pista de qué suena, no la categoría)"
+		},
+		"categorias_por_tipo": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		}
+	},
+	"cortes": {
+		"parametros": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "plantilla",
+			"falta": "parámetros de cortes: sin pares crudo ↔ publicado calibrados (calibrar-cortes.ts) / no calibrated raw ↔ published pairs"
+		},
+		"cortes_por_min": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "plantilla",
+			"falta": "cortes por minuto: sin pares crudo ↔ publicado calibrados (calibrar-cortes.ts) / no calibrated raw ↔ published pairs"
+		},
+		"velocidad": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "plantilla",
+			"falta": "velocidad: sin pares crudo ↔ publicado calibrados (calibrar-cortes.ts) / no calibrated raw ↔ published pairs"
+		},
+		"pads": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "plantilla",
+			"falta": "aire en cada corte: sin pares crudo ↔ publicado calibrados (calibrar-cortes.ts) / no calibrated raw ↔ published pairs"
+		},
+		"pausas": {
+			"valor": "N/A",
+			"n": 0,
+			"fuente": "plantilla",
+			"falta": "pausa que se corta: sin pares crudo ↔ publicado calibrados (calibrar-cortes.ts) / no calibrated raw ↔ published pairs"
+		}
+	},
+	"encuadre": {
+		"barbilla_y": {
+			"valor": 1062.2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"p10": 1011.8,
+			"p90": 1256.7,
+			"unidad": "px base (p50 de cada reel, mediana entre reels recientes)"
+		},
+		"alto_cara": {
+			"valor": 393.4,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"p10": 284,
+			"p90": 547.3,
+			"unidad": "px base (p50 de cada reel, mediana entre reels recientes)"
+		},
+		"centro_x": {
+			"valor": 521,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"p10": 457.4,
+			"p90": 539.9,
+			"unidad": "px base (p50 de cada reel, mediana entre reels recientes)"
+		},
+		"coronilla_y": {
+			"valor": 517.5,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"p10": 453.9,
+			"p90": 637.1,
+			"unidad": "px base (p50 de cada reel, mediana entre reels recientes)"
+		}
+	},
+	"zona_ui": {
+		"arriba": {
+			"valor": 235.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920: p10 entre reels del borde de arriba de tus capas (el titular)",
+			"mediana": 275.9,
+			"min": 64,
+			"max": 419.3
+		},
+		"abajo": {
+			"valor": 1538.1,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1920: p90 entre reels del borde de abajo de tus capas (los subtítulos)",
+			"mediana": 1536.5,
+			"min": 1425.7,
+			"max": 1564.5
+		},
+		"izquierda": {
+			"valor": 97.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080: p10 entre reels del borde izquierdo de tus capas",
+			"mediana": 144.7,
+			"min": 40.9,
+			"max": 191.3
+		},
+		"derecha": {
+			"valor": 966.2,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base 1080: p90 entre reels del borde derecho de tus capas",
+			"mediana": 926.4,
+			"min": 876.3,
+			"max": 1039.1
+		},
+		"guia_meta": {
+			"valor": {
+				"arriba": 268.8,
+				"abajo": 1248,
+				"izquierda": 64.8,
+				"derecha": 1015.2
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		}
+	},
+	"tapa_cabeza": {
+		"p50": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "inserts en tarjeta que tapan tu cabeza por reel (p50 entre reels)"
+		},
+		"p90": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "inserts en tarjeta que tapan tu cabeza por reel (p90 entre reels)"
+		},
+		"por_clase": {
+			"valor": {
+				"tarjeta": 32,
+				"sticker": 53,
+				"insert": 2
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "capas que se enciman con la caja de tu cabeza (borde de arriba sobre la barbilla y ≥ 20 % de traslape horizontal)"
+		}
+	},
+	"cabeza": {
+		"margen_barbilla_px": {
+			"valor": 33.8,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base: borde de arriba de la capa − barbilla más baja de su ventana (p10 de todas las capas)",
+			"p50": 127.7,
+			"p90": 201.7
+		},
+		"margen_plan": {
+			"valor": 60,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		},
+		"margen_boca_px": {
+			"valor": 109.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "px base: borde de arriba de la capa − boca más baja de su ventana (p10 de todas las capas; negativo = tapa la boca)",
+			"p50": 216.1,
+			"p90": 298.6
+		},
+		"pct_capas_tapan_boca": {
+			"valor": 0.9,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de stickers y tarjetas cuyo borde de arriba sube sobre tu boca (la zona protegida del director)"
+		}
+	},
+	"ritmo": {
+		"gancho": {
+			"capas_por_min": {
+				"valor": 40,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "capas por minuto en 0–3 s",
+				"p10": 0,
+				"p90": 80
+			},
+			"desde_s": 0,
+			"hasta_s": 3
+		},
+		"cuerpo": {
+			"capas_por_min": {
+				"valor": 34.89,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "capas por minuto entre 3 s y el final − 5 s",
+				"p10": 0,
+				"p90": 61.31
+			}
+		},
+		"cierre": {
+			"capas_por_min": {
+				"valor": 0,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "capas por minuto en los últimos 5 s",
+				"p10": 0,
+				"p90": 12
+			}
+		},
+		"primera_capa_s": {
+			"valor": 0.7,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s hasta que aparece la primera capa",
+			"p10": 0.4,
+			"p90": 1.32
+		}
+	},
+	"densidades": {
+		"tarjetas_por_min": {
+			"valor": 21.79,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "tarjetas por minuto (los reels sin tarjetas cuentan como 0)",
+			"p10": 0,
+			"p90": 35.64
+		},
+		"stickers_por_min": {
+			"valor": 5.75,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "stickers por minuto (los reels sin stickers cuentan como 0)",
+			"p10": 0,
+			"p90": 10.78
+		},
+		"inserts_por_min": {
+			"valor": 3.83,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "inserts por minuto (tarjeta + pantalla completa)",
+			"p10": 0,
+			"p90": 14.79
+		},
+		"zooms_por_min": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "zooms de edición por minuto (confirmados por el fondo)",
+			"p10": 0,
+			"p90": 0
+		},
+		"desenfoque_por_min": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "desenfoques de énfasis por minuto (nitidez < 50 % de su mediana)",
+			"p10": 0,
+			"p90": 0
+		},
+		"capas_por_min": {
+			"valor": 31.59,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "capas por minuto",
+			"p10": 0,
+			"p90": 58.5
+		},
+		"sfx_por_min": {
+			"valor": 21.79,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "capas con SFX por minuto (sin corregir por azar)",
+			"p10": 1.69,
+			"p90": 47.74
+		}
+	},
+	"tipografia": {
+		"candidatas": [
+			"TikTok Sans 600 y 800",
+			"Instrument Sans 600 y 700",
+			"Inter 600 y 800"
+		],
+		"familia": {
+			"valor": "inter",
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"nombre": "Inter"
+		},
+		"subtitulos": {
+			"candidata": {
+				"valor": "inter",
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"nombre": "Inter"
+			},
+			"peso": {
+				"valor": 800,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "peso de la instancia más parecida"
+			},
+			"parecido": {
+				"valor": 0.6605,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "IoU p50 de las máscaras (1 = idénticas)",
+				"ancho_rel_p50": 0.9961,
+				"tinta_rel_p50": 1.1571
+			}
+		},
+		"titular": {
+			"candidata": {
+				"valor": "instrument-sans",
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"nombre": "Instrument Sans"
+			},
+			"peso": {
+				"valor": 700,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "peso de la instancia más parecida"
+			},
+			"parecido": {
+				"valor": 0.623,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "IoU p50 de las máscaras (1 = idénticas)",
+				"ancho_rel_p50": 1.0059,
+				"tinta_rel_p50": 1.0376
+			}
+		},
+		"tarjetas": {
+			"candidata": {
+				"valor": "inter",
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"nombre": "Inter"
+			},
+			"peso": {
+				"valor": 700,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "peso de la instancia más parecida"
+			},
+			"parecido": {
+				"valor": 0.7746,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+				"unidad": "IoU p50 de las máscaras (1 = idénticas)",
+				"ancho_rel_p50": 0.997,
+				"tinta_rel_p50": 0.9251
+			}
+		}
+	},
+	"resaltado": {
+		"pct": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "% de subtítulos con alguna palabra de otro color, peso o escala",
+			"p10": 0,
+			"p90": 0
+		},
+		"modos": {
+			"valor": {
+				"color": 0,
+				"peso": 0,
+				"escala": 0
+			},
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "subtítulos con resaltado por modo (color, peso, escala)"
+		},
+		"config": {
+			"activo": false
+		}
+	},
+	"textos": {
+		"min_por_palabra_s": {
+			"valor": 0.186,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it",
+			"unidad": "s por palabra que dejas un texto en pantalla (lo mínimo que usas)",
+			"p10": 0.155,
+			"p90": 1.5
+		},
+		"min_por_palabra_brag": {
+			"valor": 0.3,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		}
+	},
+	"supuestos": {
+		"brag": {
+			"gancho_s": {
+				"valor": 2,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			},
+			"por_palabra_s": {
+				"valor": 0.3,
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			},
+			"entrada": {
+				"valor": "entra rápido y se queda",
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			}
+		},
+		"zoom_demos": {
+			"entra_antes_ms": {
+				"valor": [
+					400,
+					500
+				],
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			},
+			"se_mantiene_s": {
+				"valor": [
+					1,
+					1.5
+				],
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			},
+			"escala": {
+				"valor": "clamp(0.7·min(viewW/boxW, viewH/boxH), 1, 2.5)",
+				"n": 0,
+				"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+				"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+			}
+		},
+		"franja_margen_px": {
+			"valor": 20,
+			"n": 0,
+			"fuente": "supuesto (plantilla genérica: punto de partida, no medido en tus reels / generic template: starting point, not measured on your reels)",
+			"falta": "sin medir en tus reels: /aprender-estilo lo reemplaza / not measured on your reels: /aprender-estilo replaces it"
+		}
+	},
+	"comparacion_grupos": {},
+	"resumen": {
+		"metricas": 186,
+		"medidas": 0,
+		"na": 7,
+		"supuestos": 179
+	},
+	"metodo": {}
+}

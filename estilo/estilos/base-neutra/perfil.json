@@ -1,0 +1,106 @@
+{
+	"id": "base-neutra",
+	"version": 1,
+	"estado": "base",
+	"cuenta": "",
+	"fecha": null,
+	"documento": "estilo/estilos/base-neutra/perfil.md",
+	"base": "ninguna",
+	"referencia": {
+		"proyecto": null,
+		"edicion": null,
+		"final": null,
+		"veredicto": null
+	},
+	"velocidad": {
+		"factor": 1
+	},
+	"cortes": {
+		"solo_silencios": true,
+		"sin_aires": false,
+		"quitar_repeticiones_y_autocorrecciones": true
+	},
+	"titular": {
+		"por_defecto": "decidir por reel",
+		"referencia": null
+	},
+	"subtitulos": {
+		"min_palabras": 2,
+		"max_palabras": 3,
+		"y": null,
+		"color": "#FFFFFF",
+		"borde": "#000000"
+	},
+	"tarjetas": {
+		"palabras_min": 1,
+		"palabras_max": 3,
+		"por_minuto": {
+			"valor": 10,
+			"n": 0,
+			"fuente": "decisión de arranque, no medida"
+		},
+		"con_emoji": 0,
+		"prompt_tecleado": true,
+		"literales": true
+	},
+	"stickers": {
+		"por_minuto": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "decisión de arranque: sin stickers"
+		},
+		"sin_repetir_assets": true
+	},
+	"memes": {
+		"por_minuto": {
+			"valor": 0,
+			"n": 0,
+			"fuente": "decisión de arranque: sin memes"
+		}
+	},
+	"sfx": {
+		"solo_fuentes": [],
+		"archivo": "biblioteca/sfx/preferencias.json"
+	},
+	"zona_segura": {
+		"x": [135, 945],
+		"y": [220, 1600],
+		"puede_tapar_cara": false
+	},
+	"demos": {
+		"tema": "oscuro"
+	},
+	"no_va": ["stickers", "memes", "zooms de edición", "motion graphics"],
+	"referencias": [],
+	"exportar_4k": {
+		"si_crudo_4k": true
+	},
+	"direccion": {
+		"sin_borrador_automatico": false,
+		"nota": "el borrador del director propone las tarjetas; con sin_stickers en notas-director.json"
+	},
+	"motor": {
+		"version": 1,
+		"velocidad": {
+			"factor": 1,
+			"decision": "base neutra: sin acelerar"
+		},
+		"aires": {
+			"hueco_minimo_s": 0.3,
+			"umbral_sobre_piso_db": 12,
+			"quitar_sueltos_s": 0,
+			"decision": "base neutra: corta pausas de más de 0.3 s, sin apretar los aires"
+		},
+		"zona": {
+			"puede_tapar_cara": false,
+			"nota_cara": "base neutra: las capas no tapan la boca"
+		},
+		"ritmo": {
+			"tarjetas_por_min": 10,
+			"stickers_por_min": 0,
+			"tarjetas_con_emoji": 0,
+			"fuente": "decisión de arranque de base-neutra, no medida en ningún reel"
+		},
+		"decisiones": []
+	}
+}

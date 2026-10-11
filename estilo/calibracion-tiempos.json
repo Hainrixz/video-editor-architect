@@ -1,0 +1,21 @@
+{
+	"_nota": {
+		"es": "Calibración técnica del motor (no es estilo): cómo se toma el inicio de cada palabra de whisper-cli large-v3 (t_dtw × 10 − k). Se midió con grabaciones de voz contra silencedetect; no depende del creador. Si cambias de modelo de whisper, vuelve a calibrarla.",
+		"en": "Engine technical calibration (not style): how the start of each word from whisper-cli large-v3 is taken (t_dtw × 10 − k). Measured on voice recordings against silencedetect; it does not depend on the creator. Recalibrate if you change the whisper model."
+	},
+	"metodo": "t_dtw",
+	"k_ms": 19,
+	"modelo": "ggml-large-v3.bin (whisper.cpp 1.8.4)",
+	"N": 74,
+	"p50_ms": 42.1,
+	"p95_ms": 226.5,
+	"pasa": false,
+	"criterio": {
+		"p50_ms": 25,
+		"p95_ms": 45
+	},
+	"n_minimo": 40,
+	"umbral_silencedetect": "-35dB",
+	"pausa_min_s": 0.25,
+	"percentiles": "interpolación lineal entre rangos"
+}

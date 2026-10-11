@@ -1,0 +1,10 @@
+{
+	"version": 1,
+	"pop": {
+		"estado": "pendiente",
+		"aprobados": [],
+		"rechazados": [],
+		"fecha": null,
+		"nota": null
+	}
+}

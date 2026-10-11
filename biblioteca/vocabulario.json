@@ -1,0 +1,5 @@
+{
+	"_nota": "terminos: nombres que whisper debe reconocer (marcas, productos, personas). correcciones: \"lo que oye\": \"cómo se escribe\". / terms: names whisper should recognize. corrections: \"what it hears\": \"how it is spelled\".",
+	"terminos": [],
+	"correcciones": {}
+}

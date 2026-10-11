@@ -1,0 +1,18 @@
+{
+	"_nota": {
+		"es": "Calibración neutra de cortes.ts: sin parámetros calibrados (mandan los valores por defecto de cortes.ts: pausas de más de 0.3 s, pads 0.08/0.12 s) y sin velocidad medida (×1). herramientas/estilo/calibrar-cortes.ts la reemplaza con tus pares crudo ↔ publicado.",
+		"en": "Neutral cortes.ts calibration: no calibrated parameters (cortes.ts defaults apply: pauses over 0.3 s, pads 0.08/0.12 s) and no measured speed (×1). herramientas/estilo/calibrar-cortes.ts replaces it with your raw ↔ published pairs."
+	},
+	"version": 1,
+	"fuente": "plantilla",
+	"n_pares": 0,
+	"parametros": {},
+	"velocidad": {
+		"mediana": null,
+		"consistente": false,
+		"n_pares": 0,
+		"n_tramos": 0,
+		"min": null,
+		"max": null
+	}
+}

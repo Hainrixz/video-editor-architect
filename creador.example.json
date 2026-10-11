@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"nombre": "",
+	"handle": "",
+	"plataforma": "instagram",
+	"idioma": "es",
+	"estilo_activo": "base-neutra",
+	"corpus": {
+		"instagram_id": null,
+		"carpetas_apify": [],
+		"carpetas_ytdlp": [],
+		"carpetas_extra": [],
+		"crudos": []
+	},
+	"sfx": {
+		"solo_fuentes": [],
+		"pixabay": null
+	},
+	"voz": null,
+	"whisper_modelo": null
+}

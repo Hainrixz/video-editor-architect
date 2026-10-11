@@ -1,0 +1,13 @@
+{
+  "version": 1, "estilo_version": "0.0.0", "estilo_hash": "prueba-f0",
+  "lienzo": {"w": 1440, "h": 2560, "fps": 30, "base": [1080, 1920]},
+  "base": "fx/clip-6s.mp4", "duracion_s": 5,
+  "titular": null,
+  "subtitulos": [{"id": "s1", "desde": 0.2, "hasta": 1.4, "palabras": [{"i": 0, "t": "prueba", "d": 0.2, "h": 0.7}, {"i": 1, "t": "fase", "d": 0.7, "h": 1.0}, {"i": 2, "t": "cero", "d": 1.0, "h": 1.4}]}],
+  "resaltar_palabras": [],
+  "stickers": [{"id": "k1", "desde": 1.0, "hasta": 2.5, "asset": "fx/sticker.png", "mascota": null,
+                "caja": {"x": 400, "y": 1000, "w": 280}, "entrada": "corte", "salida": "corte", "tapaCabeza": false,
+                "sfx": {"asset": "fx/pop.mp3", "ganancia_db": -10, "offset_frames": 0, "variante": 0}}],
+  "inserts": [], "zooms": [], "sfx_extra": [],
+  "audio": {"lufs": -14, "pico_dbtp": -1.5}
+}

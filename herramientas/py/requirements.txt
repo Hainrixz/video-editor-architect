@@ -1,0 +1,16 @@
+# Paquetes del .venv del proyecto (Python 3.12), con versiones fijas verificadas en macOS arm64 el 2026-10-11.
+# Instalación (macOS, Windows o Linux):
+#   uv venv .venv --python 3.12
+#   uv pip install --python .venv/bin/python -r herramientas/py/requirements.txt        (macOS / Linux)
+#   uv pip install --python .venv\Scripts\python.exe -r herramientas/py/requirements.txt  (Windows)
+
+# Fuentes (titulares y subtítulos): instancias de fuentes variables y contornos.
+fonttools==4.63.0
+skia-pathops==0.9.2
+
+# Visión multiplataforma (herramientas/py/ocr.py, cara.py, mascara.py). En macOS se usa Apple Vision si sus
+# binarios están compilados; esto es el motor de Windows y Linux (y el de macOS con EDITOR_VISION=python).
+numpy==2.5.4
+onnxruntime==1.31.0
+rapidocr-onnxruntime==1.4.4
+mediapipe==1.1.0

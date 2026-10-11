@@ -1,0 +1,59 @@
+{
+  "extraKnownMarketplaces": {
+    "video-editor-architect": {
+      "source": {
+        "source": "settings",
+        "name": "video-editor-architect",
+        "owner": {
+          "name": "video-editor-architect"
+        },
+        "plugins": [
+          {
+            "name": "ui-ux-pro-max",
+            "description": "Design intelligence: palettes, font pairings and design tokens (MIT, nextlevelbuilder).",
+            "source": {
+              "source": "github",
+              "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+              "sha": "67803eac81607188194aea9842a723b89326d90d"
+            }
+          },
+          {
+            "name": "hyperframes",
+            "description": "HTML-to-video framework skills by HeyGen (Apache-2.0).",
+            "source": {
+              "source": "github",
+              "repo": "heygen-com/hyperframes",
+              "sha": "e1925d4317fcd13c0e5799cd4767a3e2dd4c9238"
+            }
+          },
+          {
+            "name": "brag",
+            "description": "Launch videos with HyperFrames, plus /brag-slim (MIT, Shunit Haviv Hakimi).",
+            "source": {
+              "source": "github",
+              "repo": "latent-spaces/brag",
+              "sha": "8531ccb9f471ef5099abf930079e47b55c55bb21"
+            }
+          },
+          {
+            "name": "watch",
+            "description": "Let Claude watch a reference video: frames + transcript (MIT, Bradley Bonanno).",
+            "source": {
+              "source": "github",
+              "repo": "bradautomates/claude-video",
+              "sha": "03ceb42f7fa2c4439aca01752118044baabffb8f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ui-ux-pro-max@video-editor-architect": true,
+    "hyperframes@video-editor-architect": true,
+    "brag@video-editor-architect": true,
+    "watch@video-editor-architect": true,
+    "frontend-design@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true
+  }
+}

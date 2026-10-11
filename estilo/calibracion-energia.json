@@ -1,0 +1,45 @@
+{
+	"_nota": {
+		"es": "Calibración técnica del motor (no es estilo): ajuste por energía del inicio de la palabra que sigue a una pausa (herramientas/lib/inicio-voz.ts). No depende del creador.",
+		"en": "Engine technical calibration (not style): energy-based adjustment of the start of the word after a pause (herramientas/lib/inicio-voz.ts). It does not depend on the creator."
+	},
+	"metodo": "t_dtw×10 − k y, tras pausa, arranque por energía − k_e (herramientas/lib/inicio-voz.ts)",
+	"k_dtw_ms": 19,
+	"umbral_db": 15,
+	"desplazamiento_ms": 1,
+	"pasa": false,
+	"criterio": {
+		"p50_ms": 25,
+		"p95_ms": 45
+	},
+	"n_minimo": 40,
+	"validacion_cruzada": {
+		"N": 74,
+		"p50_ms": 1.2,
+		"p95_ms": 211.6
+	},
+	"opciones_fijas": {
+		"ventanaMs": 10,
+		"saltoMs": 1,
+		"antesMs": 300,
+		"despuesMs": 200,
+		"pisoMs": 500,
+		"pisoPercentil": 0.1,
+		"pisoMinimoDbfs": -90,
+		"fondoMs": 5000,
+		"fondoPercentil": 0.02,
+		"pisoSobreFondoMaxDb": 10,
+		"sostenidoMs": 30,
+		"huecoMs": 20,
+		"pausaPreviaMs": 150,
+		"pasoAltoHz": 80,
+		"bandaVozHz": [
+			300,
+			3400
+		],
+		"respiracionMs": 50,
+		"respiracionVozSobreAltaDb": 10,
+		"respiracionPesoAgudoDb": -6
+	},
+	"percentiles": "interpolación lineal entre rangos (los de compuerta-tiempos.ts)"
+}
