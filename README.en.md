@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Claude_Code-Template-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0B0F14" alt="Claude Code template"></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Claude_Code-Agent-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0B0F14" alt="Claude Code agent"></a>
   <a href="https://www.remotion.dev"><img src="https://img.shields.io/badge/Remotion-4-8AA4C8?style=for-the-badge&labelColor=0B0F14" alt="Remotion 4"></a>
   <a href="#requirements"><img src="https://img.shields.io/badge/macOS_·_Windows-E6EDF3?style=for-the-badge&labelColor=0B0F14" alt="macOS and Windows"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&labelColor=0B0F14" alt="MIT license"></a>
@@ -78,10 +78,10 @@ If something costs money, Claude tells you how much and waits for your "yes" in 
 
 **Before:** Node.js 24, Git and Claude Code signed in to your account. The [macOS](docs/install-macos.md) and [Windows](docs/install-windows.md) guides cover each one.
 
-Create your private copy from the template (or use the **Use this template** button on GitHub) and go in:
+Clone the repo and go in:
 
 ```bash
-gh repo create my-editor --template Hainrixz/video-editor-architect --private --clone
+git clone https://github.com/Hainrixz/video-editor-architect.git my-editor
 cd my-editor
 npm ci
 npm run instalar          # shows the plan: what is missing and how it gets installed
