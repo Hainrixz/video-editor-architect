@@ -115,6 +115,10 @@
     "excludedCommands": [
       "npx tsx herramientas/doctor.ts",
       "npx tsx herramientas/doctor.ts *",
+      "npx tsx herramientas/instalar.ts",
+      "npx tsx herramientas/instalar.ts *",
+      "npm run instalar",
+      "npm run instalar *",
       "npx tsx herramientas/grabador/estudio.ts *",
       "npx tsx herramientas/grabador/ventana.ts *",
       "npx remotion render *",

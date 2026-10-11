@@ -13,6 +13,7 @@
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "doctor": "tsx herramientas/doctor.ts",
+    "instalar": "tsx herramientas/instalar.ts",
     "preparar": "tsx herramientas/preparar-public.ts",
     "postinstall": "tsx herramientas/preparar-public.ts"
   },

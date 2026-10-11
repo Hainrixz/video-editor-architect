@@ -12,6 +12,21 @@ Revisado el 2026-10-11. Fuentes en [fuentes-investigacion.md](fuentes-investigac
 
 Al terminar, corre `npx tsx herramientas/doctor.ts` en el proyecto. Revisa todo y te dice qué falta.
 
+## La vía rápida: `npm run instalar`
+
+Después de los pasos 1 y 2 (Git y Node 24), clona el proyecto y corre `npm ci` dentro. Luego un comando instala lo demás:
+
+```powershell
+npm run instalar          # muestra el plan: qué falta, el comando de cada cosa y cuánto baja
+npm run instalar -- --si  # lo instala, paso a paso
+```
+
+Solo instala lo que falta: ffmpeg (`Gyan.FFmpeg`), uv, yt-dlp y Chrome con `winget` (acepta por ti los acuerdos del origen y del paquete); whisper.cpp del zip oficial de las releases de `ggml-org/whisper.cpp`, descomprimido en `%USERPROFILE%\.cache\video-editor\whisper`, con `EDITOR_WHISPER_CLI` y `EDITOR_VAD_CLI` fijadas para tu usuario (`setx`, sin administrador); el `.venv` de Python con los paquetes de OCR y cara; el modelo large-v3 de whisper (**unos 3.1 GB**, la descarga se retoma si se corta) y el VAD silero; el Chromium de Playwright; y las fuentes OFL. Cada paso se revisa al terminar, y al final dice "listo X de Y (Z omitidos)". `--solo uv,venv` lo limita a algunas piezas.
+
+Nunca pide permisos de administrador por su cuenta y nunca toca tus llaves. Node solo se avisa (es lo que corre el instalador). Al terminar, **abre una terminal nueva** (y reinicia Claude Code) para que se vean el PATH y las variables nuevas, y corre `npx tsx herramientas/doctor.ts`. Recuerda: en Windows nativo Claude Code no tiene sandbox, así que lee el plan antes de decir que sí.
+
+Los pasos manuales de abajo hacen lo mismo, uno por uno.
+
 ## Dos formas de correrlo
 
 **A. Windows nativo (lo más simple).** Todo lo de esta página. Importante: **el sandbox de Claude Code no corre en Windows nativo.** La documentación de Claude Code lo dice tal cual: en Windows nativo, Claude Code corre los comandos sin sandbox. Las reglas del proyecto siguen (nada de llaves, nada de gastos sin tu sí, los originales no se tocan), pero el sistema operativo no las hace cumplir. Deja los permisos `deny` y `ask` de `.claude/settings.json` y lee lo que te propone el agente antes de decir que sí.

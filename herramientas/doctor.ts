@@ -487,7 +487,7 @@ export const NOTA_REMOTION =
 
 // ───────────────────────── tabla de dependencias ─────────────────────────
 
-type Contexto = {home: string; env: Entorno; raiz: string; s: Sistema};
+export type Contexto = {home: string; env: Entorno; raiz: string; s: Sistema};
 
 export type Dependencia = {
 	item: string;
@@ -538,6 +538,21 @@ export const DEPENDENCIAS: readonly Dependencia[] = [
 /** Las dependencias que aplican en un sistema (pura). */
 export function dependenciasDe(s: Sistema): Dependencia[] {
 	return DEPENDENCIAS.filter((d) => d.sistemas.includes(s));
+}
+
+/** Contexto de este equipo (o con lo que inyectes). Lo usa también instalar.ts. */
+export function contextoDoctor(op: Partial<Contexto> = {}): Contexto {
+	return {home: op.home ?? homedir(), env: op.env ?? (process.env as Entorno), raiz: op.raiz ?? RAIZ, s: op.s ?? sistema()};
+}
+
+/**
+ * Corre solo las comprobaciones con esos nombres (`item` de DEPENDENCIAS) que apliquen en el sistema del contexto.
+ * Las que no aplican no salen. instalar.ts la usa para saber qué falta y para verificar después de cada paso.
+ */
+export function revisarItems(items: readonly string[], contexto: Contexto = contextoDoctor()): Chequeo[] {
+	return dependenciasDe(contexto.s)
+		.filter((d) => items.includes(d.item))
+		.map((d) => seguro(d.item, d.obligatorio, () => d.revisar(contexto)));
 }
 
 // ───────────────────────── diagnóstico completo ─────────────────────────

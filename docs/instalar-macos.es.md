@@ -12,6 +12,21 @@ Revisado el 2026-10-11. Las versiones entre paréntesis son las que tenía Homeb
 
 Al terminar, corre `npx tsx herramientas/doctor.ts` en el proyecto. Revisa todo lo de abajo y te dice qué falta.
 
+## La vía rápida: `npm run instalar`
+
+Si ya tienes Node 24 y el proyecto clonado con `npm ci` hecho, un comando instala lo demás:
+
+```bash
+npm run instalar          # muestra el plan: qué falta, el comando de cada cosa y cuánto baja
+npm run instalar -- --si  # lo instala, paso a paso
+```
+
+Solo instala lo que falta: ffmpeg, uv, yt-dlp, whisper.cpp y Chrome con Homebrew; el `.venv` de Python; el modelo large-v3 de whisper (**unos 3.1 GB**, la descarga se retoma si se corta) y el VAD silero; los paquetes de OCR y cara; el Chromium de Playwright; las fuentes OFL; y compila Apple Vision si hay `swiftc`. Cada paso se revisa al terminar, y al final dice "listo X de Y (Z omitidos)". `--solo uv,venv` lo limita a algunas piezas.
+
+Nunca usa `sudo` y nunca toca tus llaves. Lo que pide tu contraseña te lo imprime para que lo corras tú: Homebrew (si no lo tienes) y `xcode-select --install`. Luego corre `npx tsx herramientas/doctor.ts` para confirmar.
+
+Los pasos manuales de abajo hacen lo mismo, uno por uno.
+
 ## 1. Xcode Command Line Tools
 
 El seguimiento de cara, el OCR y algunas mediciones de estilo usan Apple Vision con programas chicos en Swift (`herramientas/vision/`). Para compilarlos necesitas `swiftc`:

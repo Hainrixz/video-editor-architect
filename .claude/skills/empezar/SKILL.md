@@ -19,14 +19,16 @@ You are the setup guide. **One thing at a time:** ask one question, wait for the
 ## 0. Language
 Ask: "¿En qué idioma prefieres que trabajemos: español o inglés? / Which language do you prefer: Spanish or English?" Use the answer from here on. It is saved in step 2.
 
-## 1. Check the install
-Run `npx tsx herramientas/doctor.ts` (excluded from the sandbox: alone in its Bash call). Read its output and, **one missing item at a time**, guide the install:
-- Find out the system (`uname -s`, or ask). macOS → `docs/install-macos.md` (Spanish: `docs/instalar-macos.es.md`). Windows → `docs/install-windows.md` (`docs/instalar-windows.es.md`).
-- Give the one command for that item, let them run it (installers that need admin rights or a password, they run themselves with `!` in front), and run the doctor again.
+## 1. Install everything
+The installer (`herramientas/instalar.ts`, also `npm run instalar`) checks the machine with the same checks as the doctor and installs only what is missing: ffmpeg, uv and the Python `.venv`, whisper.cpp and its models, yt-dlp, Chrome and Playwright's Chromium, the OFL fonts and, on macOS, Apple Vision. It never uses sudo and never touches keys.
+1. **Plan first.** Run `npx tsx herramientas/instalar.ts` (no flags: it only prints the plan and installs nothing). Run it alone in its Bash call.
+2. **Explain the plan in their language**, short: what it will install, with which command (Homebrew on macOS, winget on Windows), and how much it downloads. Always say the big one out loud: the whisper large-v3 model is **about 3.1 GB** (the download resumes if it gets cut). Lines marked "LO CORRES TÚ" (Homebrew itself, `xcode-select --install`, Node, anything that needs sudo on Linux) are for them: give each one, they run it with `!` in front, then run the plan again.
+3. **With their yes**, run `npx tsx herramientas/instalar.ts --si`. Each step shows its output and is checked right after; at the end it prints "listo X de Y (Z omitidos)" and the next step. Only some pieces: `--solo uv,venv`. If the sandbox blocks it (it writes outside the project: Homebrew, `~/.cache`), ask them to run it themselves: `!npx tsx herramientas/instalar.ts --si`.
+4. **Confirm** with `npx tsx herramientas/doctor.ts` (excluded from the sandbox: alone in its Bash call). If something is still ✖, fix that one item and run the doctor again. Manual guides, step by step: macOS → `docs/install-macos.md` (Spanish: `docs/instalar-macos.es.md`); Windows → `docs/install-windows.md` (`docs/instalar-windows.es.md`).
+- On Windows, after the installer: it sets `EDITOR_WHISPER_CLI` and `EDITOR_VAD_CLI` for their user with `setx`, so they must **open a new terminal and restart Claude Code** before the doctor sees them.
+- On native Windows, say once: **Claude Code has no sandbox there** (it does on macOS, Linux and WSL2), so the rules are not enforced by the system; read each command before saying yes. Face tracking and OCR run with Python (RapidOCR + MediaPipe in the uv `.venv`) instead of Apple Vision. If models live elsewhere, the guides explain `EDITOR_WHISPER_MODELO`, `EDITOR_VAD_MODELO`, `EDITOR_VAD_CLI` and `EDITOR_MODELOS`.
 - Keys are optional at this point. If the doctor says a key is missing, explain what it is for and that they add it to `~/.config/claude-editor/.env` only if they want that paid service.
-- On native Windows, say once: Claude Code has no sandbox there (it does on macOS, Linux and WSL2), so the rules are not enforced by the system; face tracking and OCR run with Python (RapidOCR + MediaPipe in the uv `.venv`) instead of Apple Vision. If models live elsewhere, the guides explain `EDITOR_WHISPER_MODELO`, `EDITOR_VAD_MODELO`, `EDITOR_VAD_CLI` and `EDITOR_MODELOS`.
-- Then the `public/` links: `npx tsx herramientas/preparar-public.ts` (`npm ci` already runs it; symlinks on macOS/Linux, junctions on Windows).
-- Then the fonts: `sh biblioteca/fuentes/preparar.sh` (downloads the OFL fonts from Google Fonts).
+- The `public/` links are already made by `npm ci` (`herramientas/preparar-public.ts`: symlinks on macOS/Linux, junctions on Windows).
 - Optional plugins (`docs/skills.md`): they are declared in `.claude/settings.json` but not installed. If they want one: `claude plugin install <name>@video-editor-architect --scope project`.
 
 ## 2. Creator profile

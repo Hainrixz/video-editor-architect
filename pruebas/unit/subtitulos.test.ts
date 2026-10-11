@@ -55,6 +55,8 @@ import {
 import {HAY_FUENTES} from './requisitos.ts';
 
 const FORMATO = /^No pude [^:\n]+: [^\n]+\. Siguiente paso: [^\n]+\.$/;
+/** Quita los avisos que npm/npx imprime según la configuración de la máquina (no son del editor). */
+const sinAvisosNpm = (texto: string) => texto.split('\n').filter((l) => !/^npm (warn|notice)/.test(l)).join('\n').trim();
 const RUTA_TIKTOK = join(RAIZ, CANDIDATAS['tiktok-sans'].archivos[600].ruta);
 const ESTILO = resolverEstilo({});
 
@@ -816,13 +818,13 @@ describe.runIf(HAY_FUENTES)('CLI', () => {
 	it('sin slug sale con código 2 y una sola frase con siguiente paso', () => {
 		const r = spawnSync('npx', ['tsx', 'herramientas/subtitulos.ts'], {cwd: RAIZ, encoding: 'utf8'});
 		expect(r.status).toBe(2);
-		expect(r.stderr.trim()).toMatch(FORMATO);
+		expect(sinAvisosNpm(r.stderr)).toMatch(FORMATO);
 	});
 
 	it('--min-palabras fuera de 1–3 sale con código 2', () => {
 		const r = spawnSync('npx', ['tsx', 'herramientas/subtitulos.ts', 'x', '--min-palabras', '4'], {cwd: RAIZ, encoding: 'utf8'});
 		expect(r.status).toBe(2);
-		expect(r.stderr.trim()).toMatch(FORMATO);
+		expect(sinAvisosNpm(r.stderr)).toMatch(FORMATO);
 	});
 });
 

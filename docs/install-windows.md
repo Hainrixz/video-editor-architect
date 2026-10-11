@@ -12,6 +12,21 @@ Checked on 2026-10-11. Sources in [fuentes-investigacion.md](fuentes-investigaci
 
 When you finish, run `npx tsx herramientas/doctor.ts` in the project. It checks everything and tells you what is missing.
 
+## The quick way: `npm run instalar`
+
+After steps 1 and 2 (Git and Node 24), clone the project and run `npm ci` in it. Then one command installs the rest:
+
+```powershell
+npm run instalar          # shows the plan: what is missing, the command for each piece and how much it downloads
+npm run instalar -- --si  # installs it, step by step
+```
+
+It installs only what is missing: ffmpeg (`Gyan.FFmpeg`), uv, yt-dlp and Chrome with `winget` (it accepts the source and package agreements for you); whisper.cpp from the official zip of the `ggml-org/whisper.cpp` releases, unzipped under `%USERPROFILE%\.cache\video-editor\whisper`, with `EDITOR_WHISPER_CLI` and `EDITOR_VAD_CLI` set for your user (`setx`, no admin); the Python `.venv` with the OCR and face packages; the whisper large-v3 model (**about 3.1 GB**, the download resumes if it gets cut) and the silero VAD; Playwright's Chromium; and the OFL fonts. Each step is checked right after, and it ends with "listo X de Y (Z omitidos)". `--solo uv,venv` limits it to some pieces.
+
+It never asks for admin rights on its own and never touches your keys. Node is only mentioned (it is what runs the installer). When it finishes, **open a new terminal** (and restart Claude Code) so the PATH and the new variables are seen, then run `npx tsx herramientas/doctor.ts`. Remember: on native Windows Claude Code has no sandbox, so read the plan before saying yes.
+
+The manual steps below do the same, one by one.
+
 ## Two ways to run it
 
 **A. Native Windows (simplest).** Everything below. Important: **Claude Code's sandbox does not run on native Windows.** Claude Code's docs say so directly: "On native Windows, Claude Code runs commands unsandboxed." The project's rules still apply (no keys, no spending without your yes, originals untouched), but nothing at the OS level enforces them. Keep the `deny` and `ask` permissions in `.claude/settings.json` and read what the agent proposes before saying yes.

@@ -12,6 +12,21 @@ Checked on 2026-10-11. Versions in parentheses are what Homebrew offered that da
 
 When you finish, run `npx tsx herramientas/doctor.ts` in the project. It checks everything below and tells you exactly what is missing.
 
+## The quick way: `npm run instalar`
+
+If you already have Node 24 and the project cloned with `npm ci` done, one command installs the rest:
+
+```bash
+npm run instalar          # shows the plan: what is missing, the command for each piece and how much it downloads
+npm run instalar -- --si  # installs it, step by step
+```
+
+It installs only what is missing: ffmpeg, uv, yt-dlp, whisper.cpp and Chrome with Homebrew; the Python `.venv`; the whisper large-v3 model (**about 3.1 GB**, the download resumes if it gets cut) and the silero VAD; the OCR and face packages; Playwright's Chromium; the OFL fonts; and it compiles Apple Vision if `swiftc` is there. Each step is checked right after, and it ends with "listo X de Y (Z omitidos)". `--solo uv,venv` limits it to some pieces.
+
+It never uses `sudo` and never touches your keys. What needs your password, it prints for you to run: Homebrew itself (if you do not have it) and `xcode-select --install`. Then run `npx tsx herramientas/doctor.ts` to confirm.
+
+The manual steps below do the same, one by one.
+
 ## 1. Xcode Command Line Tools
 
 Face tracking, OCR and some style measurements use Apple Vision through small Swift programs (`herramientas/vision/`). Compiling them needs `swiftc`:

@@ -41,6 +41,7 @@ Tool names, folders and flags are in Spanish (`herramientas/` = tools, `crudo` =
 - Tests: `npx vitest run`
 - Types: `npx tsc --noEmit`
 - Diagnosis: `npx tsx herramientas/doctor.ts`
+- Install what is missing: `npx tsx herramientas/instalar.ts` (or `npm run instalar`) prints a plan of only what this machine lacks (ffmpeg, whisper.cpp and its models ~3 GB, uv + the Python `.venv`, yt-dlp, Chrome/Chromium, OFL fonts, Apple Vision binaries on macOS). Explain the plan to the creator in their language and run it with `--si` only after their yes; `--solo <dep,…>` limits it. It never uses sudo: on Linux, what needs sudo is printed for the creator to run. It is excluded from the sandbox (it writes to Homebrew and `~/.cache`).
 
 **All at once:** `npx tsx herramientas/editar.ts <crudo>` (excluded from the sandbox) chains the stages and stops at each checkpoint (text → `--aprobar-texto`, direction → `--borrador`, review → `--final`); `--todo` runs without stopping. The `/editar` skill explains what Claude decides at each checkpoint.
 
