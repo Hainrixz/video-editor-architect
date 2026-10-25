@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Compila el detector de cara y barbilla (herramientas/vision/cara.swift) → herramientas/bin/cara.
 #
 #   herramientas/vision/compilar-cara.sh

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del agrupador de subtítulos (herramientas/subtitulos.ts), de la medición con fontkit
  * (herramientas/lib/texto-ancho.ts) y de la tabla de fuentes candidatas (src/estilo/fuentes.ts).

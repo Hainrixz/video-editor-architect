@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Modo FLOTANTE de los motion graphics (inserts tipo "motion" con layout "flotante").
  *

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/overlays.ts y de las funciones puras de herramientas/estilo/overlays.ts, sin ffmpeg:
  * cuadros sintéticos en memoria (fondo que se mueve + capas quietas), rachas, agrupado, fusión, clase, pop medido

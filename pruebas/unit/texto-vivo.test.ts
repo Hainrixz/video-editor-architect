@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {describe, expect, it} from 'vitest';
 import {EdicionValidada, edicionVacia} from '../../src/esquema/edicion';
 import {ElementoVivo, cajaElemento, escalaTitular, resorte, textoContador, tramosPersona, vaDetras} from '../../src/estilo/texto-vivo';

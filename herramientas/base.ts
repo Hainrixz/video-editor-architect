@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Base (etapa 5 de /editar): el video vertical limpio sobre el que se monta todo lo demás.
  *

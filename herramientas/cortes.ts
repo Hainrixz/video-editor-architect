@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * cortes.ts — Etapa 4 de /editar: cortes de silencios y tomas repetidas, con tu revisión del texto.
  *

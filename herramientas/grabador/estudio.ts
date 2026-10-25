@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Estudio de pantalla web (Fase 5): Chrome con ventana (en macOS, en la pantalla Retina) para mirar, capturar y grabar demos.
  *

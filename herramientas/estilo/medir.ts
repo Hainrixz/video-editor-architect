@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * medir.ts: mide el estilo de los SUBTÍTULOS de un reel publicado (parte de subtítulos de la Fase 1).
  *

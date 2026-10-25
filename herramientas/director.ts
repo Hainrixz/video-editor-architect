@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * director.ts — el BORRADOR de la dirección de un reel (etapa 7 de /editar). Claude lo revisa y decide.
  *

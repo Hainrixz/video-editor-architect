@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * La lista "Prohibido" de la voz del creador (un voice.md; su ruta va en creador.json → voz) convertida en reglas que
  * se pueden revisar sobre un texto (el titular y los textos de inserts).

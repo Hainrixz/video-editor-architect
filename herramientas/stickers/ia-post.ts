@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * ia-post.ts (fuente 4 de stickers): post-proceso de un sticker que YA generaste con Higgsfield sobre croma.
  * No genera nada: generar cuesta créditos y solo se hace con tu sí y el costo de get_cost dicho antes

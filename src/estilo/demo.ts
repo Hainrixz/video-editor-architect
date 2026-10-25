@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Estilo y formato del inserto de demo de pantalla (Fase 5). Lo comparten el estudio
  * (herramientas/grabador/*, en Node) y el componente (src/reel/DemoPantalla.tsx, en el navegador).

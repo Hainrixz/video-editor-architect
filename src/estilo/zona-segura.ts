@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Zona segura de Instagram Reels y la forma de las decisiones de un estilo sobre ella. Todo en px de la base 1080×1920.
  *

@@ -3,6 +3,7 @@ name: grabar-demo
 description: Records a web screen demo (Chrome, 2560×1600) with clicks, scroll and zoom on click, to use as an insert in a reel. Graba una demo de pantalla web con clics, scroll y zoom al clic para meterla como insert en un reel. Use with /grabar-demo <url> or when the director needs to show a site or tool on screen, or they say "record a demo", "show the site", "graba una demo", "muestra la página".
 argument-hint: "<url> [what to show]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /grabar-demo <url>
 

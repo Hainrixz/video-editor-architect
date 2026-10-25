@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Baja las fuentes del estilo "texto vivo" (src/estilo/texto-vivo.ts), todas OFL-1.1 de google/fonts en un commit fijo,
 # y revisa su sha256. Caveat es variable: se instancia a wght 700 con fonttools del .venv.
 # Uso, desde la raíz del proyecto:  sh biblioteca/fuentes/bajar-vivo.sh

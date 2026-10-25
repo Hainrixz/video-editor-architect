@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * medir-capas.ts: mide el TITULAR y las TARJETAS de palabra clave de un reel publicado tuyo, y su relación con lo
  * que dices (Fase 2).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la terminal animada (Fase 7): funciones puras de src/estilo/terminal.ts.
  *

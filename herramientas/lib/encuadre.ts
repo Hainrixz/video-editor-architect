@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Reencuadre automático de la base: acercar y mover la toma (estático, todo el video) para que tu cara quede como en
  * tus reels publicados y quede espacio debajo de la cabeza para stickers y tarjetas.

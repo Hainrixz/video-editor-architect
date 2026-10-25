@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la etapa de cortes: herramientas/lib/tomas.ts (tomas repetidas y arranques en falso) y
  * herramientas/cortes.ts (keep[], bordes en silencio y en cuadro, remapeo y texto aprobado).

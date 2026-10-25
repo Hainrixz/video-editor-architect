@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Resorte amortiguado en forma cerrada (la misma física que `spring` de Remotion: masa, rigidez y amortiguación,
  * velocidad inicial 0), pero evaluable en cuadros FRACCIONARIOS. Lo necesitan los motion graphics flotantes para el

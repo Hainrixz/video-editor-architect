@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {spawnSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {describe, expect, it} from 'vitest';

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/capas.ts (Fase 2: titular y tarjetas), todas puras: imágenes sintéticas en memoria,
  * sin Vision, sin ffmpeg y sin red (corren dentro del sandbox).

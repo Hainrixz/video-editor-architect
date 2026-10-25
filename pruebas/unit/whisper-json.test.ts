@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {describe, expect, it} from 'vitest';
 import {energiaEnIntervalo, parsearWav, PISO_DBFS} from '../../herramientas/lib/energia';
 import {esTokenEspecial, parsearWhisperJson, type PalabraWhisper} from '../../herramientas/lib/whisper-json';

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Catálogos de stickers (mascota del generador, tus mascotas, tus stickers propios, emojis animados y logos) y cómo se
  * ordenan las opciones de un momento: por cuántas etiquetas coinciden con el concepto, luego mascota con prop o letrero

@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Baja Press Start 2P (OFL-1.1) de google/fonts en un commit fijo y revisa su sha256.
 # La usa el generador voxel de la mascota para los letreros (herramientas/stickers/voxel/fuente-pixel.ts).
 # Uso, desde la raíz del proyecto:  sh biblioteca/fuentes/press-start-2p/bajar.sh

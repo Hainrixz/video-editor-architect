@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Energía de audio para la transcripción: lee un WAV PCM s16 mono (el `audio16k.wav` de la ingesta,
  * 16 kHz) y da el RMS en dBFS por ventana o en un intervalo.

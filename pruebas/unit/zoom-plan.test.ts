@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/grabador/zoom-plan.ts:
  * - Escala = clamp(0.7 · min(vistaW/cajaW, vistaH/cajaH), 1, 2.5).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de las fuentes 2, 3 y 4 de stickers (parte pura; corren dentro del sandbox, sin Vision ni Chrome):
  *   - herramientas/stickers/lib/borde.ts: PNG, recorte a la tinta, borde tipo sticker, sombra y verificación.

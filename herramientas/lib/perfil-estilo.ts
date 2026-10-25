@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Lo que el MOTOR toma del estilo activo: `estilo/estilos/<id>/perfil.json` → clave `motor`. Son las decisiones del
  * estilo que mandan sobre lo medido (velocidad, aires, zona de subtítulos y capas, ritmo) y que antes vivían fijas en

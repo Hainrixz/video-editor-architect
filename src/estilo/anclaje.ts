@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Anclaje de un motion flotante a tu cabeza: la mediana de la caja de tu cara (cara.json) en el tramo del insert.
  * El director la calcula y la escribe en `motion.ancla` (Remotion no lee cara.json al renderizar).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * logo.ts (fuente 2 de stickers): logos reales de las marcas que mencionas, en dos variantes:
  *   - "tile": cuadro blanco redondeado con el logo a color y el nombre abajo en TikTok Sans, como el tile de

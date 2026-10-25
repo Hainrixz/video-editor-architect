@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * validar.ts — compuerta obligatoria antes de cualquier render (etapa 10 de /editar, bloqueante).
  * Remotion NO valida las props contra el schema al renderizar; esto sí, y además revisa las reglas de la Fase 3.

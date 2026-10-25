@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del layout (herramientas/layout.ts): zonas (franja de subtítulos, zona libre debajo de tu BOCA —el límite— y
  * debajo de tu barbilla —la preferencia—, zona UI), geometría de lo que se ve (stickers con su tinta, tarjetas y listas

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Contrato de la edición (EDL): lo escribe el director (Claude) y lo renderiza Remotion.
  * Coordenadas en base 1080×1920; el lienzo real es 1440×2560 (×4/3).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Fuentes candidatas para los subtítulos y el estilo de subtítulo que comparten el agrupador
  * (herramientas/subtitulos.ts, en Node) y el componente (src/reel/Subtitulo.tsx, en el navegador).

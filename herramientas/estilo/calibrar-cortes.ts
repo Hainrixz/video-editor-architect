@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * calibrar-cortes.ts — calibra los cortes (Fases 1 y 6) con lo que TÚ hiciste en tus pares crudo ↔ publicado.
  *

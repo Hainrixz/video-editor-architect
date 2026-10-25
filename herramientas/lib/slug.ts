@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Regla única para el nombre de la carpeta de un proyecto (proyectos/<slug>/).
  * Formato recomendado: AAAA-MM-DD-tema. Se permite "_" al inicio para proyectos de prueba.

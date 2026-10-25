@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * capas.ts: mide las capas de texto de tus reels publicados (Fase 2): el TITULAR fijo de arriba y las TARJETAS de
  * palabra clave (caja blanca de esquinas redondeadas con texto negro en negritas), y su relación con lo que dices.

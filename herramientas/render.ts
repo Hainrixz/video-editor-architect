@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * render.ts — etapa 12 de /editar: el MP4 final listo para subir (o el borrador para QA).
  *

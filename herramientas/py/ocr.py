@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 """
 OCR de cuadros crudos con RapidOCR (PP-OCR en ONNX Runtime, CPU): el par multiplataforma de herramientas/vision/ocr.swift.
 

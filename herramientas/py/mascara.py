@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 """
 Máscara de persona por cuadro con MediaPipe (Image Segmenter "selfie"): el par multiplataforma de
 herramientas/vision/mascara.swift. Sirve para el estilo "texto vivo" (la silueta va encima de los titulares).

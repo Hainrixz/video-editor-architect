@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Motion graphics FLOTANTES "libres" (rediseño del 2026-10-04 tras la revisión de un reel de referencia): en vez de una escena de
  * 810 × 980 con su fondo, cada pieza vive en coordenadas absolutas de la base 1080×1920, encima de tu toma

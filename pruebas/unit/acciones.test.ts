@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/grabador/acciones.ts (y de las partes puras de estudio.ts que deciden qué se permite):
  * - Un paso que no es de lectura sale con 3 ANTES de ejecutarse si el guion no trae tu sí.

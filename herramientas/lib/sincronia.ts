@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Sincronía de los subtítulos contra la VERDAD DE CONSENSO (decisión del estilo, tomada después de ver
  * los resultados de la Fase 0).

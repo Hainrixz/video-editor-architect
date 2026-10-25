@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import React, {useEffect, useMemo, useState} from 'react';
 import {staticFile, useCurrentFrame, useDelayRender, useVideoConfig} from 'remotion';
 import {Video} from '@remotion/media';

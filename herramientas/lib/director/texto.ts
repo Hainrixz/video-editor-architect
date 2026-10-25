@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Texto del transcript para el director: palabras limpias, cifras en dígitos ("quince" → "15", "veinte dólares" → "$20",
  * "cien por ciento" → "100%"), frases nominales ("la aplicación de Claude instalada" → "aplicación de Claude") y

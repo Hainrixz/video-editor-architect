@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/gasto.ts: sin `--si-gasto=<monto>` (o con un monto que no alcanza)
  * no se gasta nada y se sale con 3 ANTES de tocar la red.

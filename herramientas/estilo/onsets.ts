@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * onsets.ts: encuentra los momentos en que arranca un SFX (clic, pop, ping, glitch…) encima de tu voz.
  *

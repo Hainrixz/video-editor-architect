@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Tus aires (estilo/aires.json, decisión del estilo del 2026-10-05: "que no haya mucho aire entre palabras"):
  * lector, opción --hueco-minimo y que el archivo del repo sea válido.

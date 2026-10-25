@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de los inserts de tu material (Fase 4): herramientas/lib/inserts.ts y su CLI.
  *

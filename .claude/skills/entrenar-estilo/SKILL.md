@@ -3,6 +3,7 @@ name: entrenar-estilo
 description: Trains a NEW editing style from other creators the creator names (their top reels), reference videos and what they like about them. Saves it as a versioned profile (estilo/estilos/<id>/) and tests it on a raw video until approved. Entrena un estilo nuevo a partir de creadores y videos de referencia que el creador nombre. Use with /entrenar-estilo or when they say "train a style", "I want a style like @x", "copy how @x edits", "new editing style", "entrena un estilo", "quiero un estilo como el de @x", "replica cómo edita @x", "nuevo estilo de edición".
 argument-hint: "<style name> [@profile …] [URLs or mp4 references] [what you like]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /entrenar-estilo
 

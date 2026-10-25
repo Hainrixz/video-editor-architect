@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Encuadre automático de la base de un proyecto (estático, todo el video) → proyectos/<slug>/encuadre.json.
  *

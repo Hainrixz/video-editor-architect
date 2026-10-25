@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/sincronia.ts (verdad de consenso de la Fase 1) con datos sintéticos:
  * - parseo de silencedetect y de aspectralstats;

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Formato único de errores del editor (regla 8 de la casa):
  * una frase con qué pasó + el siguiente paso concreto. El detalle crudo va a un log, no al chat.

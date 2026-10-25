@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * armar-edl.ts <slug> — junta lo que ya calcularon las etapas en una edición nueva (edicion-vN.json).
  *

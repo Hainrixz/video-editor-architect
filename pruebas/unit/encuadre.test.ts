@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del reencuadre (herramientas/lib/encuadre.ts, herramientas/encuadre.ts y el --encuadre de base.ts):
  * - medidas de una cara, resumen por reel y objetivo agregado (medianas por reel, filtro de cobertura);

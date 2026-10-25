@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * ajustar.ts — /ajustar mínimo (Fase 1): cada ajuste es una versión nueva de la EDL; la anterior no se toca.
  *

@@ -3,6 +3,7 @@ name: empezar
 description: Guided setup for a new creator, one step at a time - language, install check, creator profile, where the style comes from, training it and the first edited reel. Configuración guiada paso a paso - idioma, instalación, perfil del creador, de dónde sale el estilo, entrenarlo y el primer reel editado. Use with /empezar or /start, or when they say "start", "set me up", "get started", "first time", "empezar", "configúrame", "quiero empezar", "es mi primera vez".
 argument-hint: "[es|en]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /empezar · /start
 

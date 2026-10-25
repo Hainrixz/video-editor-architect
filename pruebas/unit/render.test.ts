@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la salida de la Fase 1:
  * - render.ts: parseo de loudnorm (1ª pasada) y de ebur128, filtros de la 2ª pasada, TP del reintento,

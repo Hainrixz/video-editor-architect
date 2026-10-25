@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 """
 Utilidades comunes de los scripts de visión en Python (ocr.py, cara.py, mascara.py).
 

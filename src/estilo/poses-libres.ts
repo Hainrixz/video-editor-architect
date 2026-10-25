@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Poses de los motion graphics libres (src/estilo/motion-libre.ts) cuadro por cuadro: dónde va cada pieza, con qué
  * escala, opacidad y velocidad (para el desenfoque de movimiento direccional). Las usan los componentes

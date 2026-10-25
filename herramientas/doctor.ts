@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * doctor.ts — revisa que la computadora (macOS, Windows o Linux) tenga todo lo que el editor necesita.
  *

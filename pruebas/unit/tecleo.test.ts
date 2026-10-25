@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Regla del prompt (decisión del estilo, 2026-10-04): "le dices a Claude" → tarjeta prompt escribiéndose con el tecleo de tus
  * Foleys, que dura lo que tarda en escribirse. Duración del SFX en la EDL (sfx.duracion_frames) y su fundido.

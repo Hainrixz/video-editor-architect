@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del director (herramientas/director.ts y herramientas/lib/director/*): texto (cifras en dígitos, frases
  * nominales, textos de tarjeta), momentos (marcas, tarjetas por tipo de palabra —clave, frase, cifra, producto,

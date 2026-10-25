@@ -3,6 +3,7 @@ name: sfx
 description: Manages the creator's own sound-effects library - add their sounds with a license, catalog them, pick SFX for an edit without repeats, review the catalog. Maneja la biblioteca propia de efectos de sonido - agregar sonidos con licencia, catalogarlos y elegirlos para una edición sin repetir. Use with /sfx or when they say "change the sounds", "more SFX variety", "add this sound", "cámbiale los sonidos", "más variedad de SFX", "agrega este sonido".
 argument-hint: "elegir <slug> | revisar | agregar <file|folder> | aprobar-pop"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /sfx
 

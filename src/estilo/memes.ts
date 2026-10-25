@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Memes de reacción en tarjeta (GIFs convertidos a MP4 en biblioteca/memes/, ver su README.md y catalogo.json).
  *

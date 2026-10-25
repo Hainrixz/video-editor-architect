@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Cara, barbilla y coronilla de un proyecto (o de un video suelto) → cara.json. Motor: Apple Vision en macOS (si
  * está compilado) o MediaPipe en el .venv (Windows, Linux o EDITOR_VISION=python); ver herramientas/lib/plataforma.ts.

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {Composition} from 'remotion';
 import {Reel} from './reel/Reel';
 import {EdicionBase, edicionVacia, type Edicion} from './esquema/edicion';

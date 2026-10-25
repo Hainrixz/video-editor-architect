@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import React, {useEffect, useRef, useState} from 'react';
 import {Sequence, useDelayRender} from 'remotion';
 import type {Edicion} from '../esquema/edicion';

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del estilo aprendido (Fase 2, cierre):
  * - agregar.ts: cuantiles ponderados, una cifra por reel y luego entre reels (los N/A no cuentan), capas de un reel con su

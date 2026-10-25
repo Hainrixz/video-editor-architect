@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Modo flotante de los motion graphics (src/estilo/flotante.ts): contrato, rampas del fondo (tu toma desenfocada),
  * entrada de la escena, cajas, y que validar.ts / layout.ts no lo traten como algo que tapa tu cabeza.

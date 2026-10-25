@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Momentos del transcript que piden una capa: tarjetas, listas (enumeraciones de 3+ cosas cortas en ≤ 4 s), stickers
  * (logo en la PRIMERA mención de cada marca del catálogo y mascota por conceptos de las palabras) y momentos que piden una

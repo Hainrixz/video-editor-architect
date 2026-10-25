@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * agregar.ts: junta lo medido en tus reels (referencias/reels/<sc>/) en estilo/estilo.json, estilo/momentos.jsonl y
  * estilo/informe.md. Corre dentro del sandbox: solo lee JSON y escribe texto (las hojas y la tipografía las arma

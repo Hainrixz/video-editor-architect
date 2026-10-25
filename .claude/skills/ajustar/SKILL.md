@@ -3,6 +3,7 @@ name: ajustar
 description: Applies the creator's corrections to an already edited reel ("move the sticker down", "remove that SFX", "change the card", "shorter title") as a new version without touching the previous one; if it is a general preference, saves it to the style profile. Aplica correcciones a un reel ya editado en una versión nueva y guarda las preferencias en el perfil del estilo. Use with /ajustar "<change>" or when they say "adjust", "fix this in the reel", "change the card", "ajusta", "cámbiale", "baja el sticker", "quita ese sonido".
 argument-hint: "\"<what to change>\" [slug]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /ajustar "<change>"
 

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * El motor del estilo (herramientas/lib/perfil-estilo.ts → leerPerfilMotor): MOTOR_NEUTRO sin creador.json ni estilo,
  * mezcla de un `motor` parcial, errores con código 2, cortes.ts tomando velocidad y aires del perfil (o de sus

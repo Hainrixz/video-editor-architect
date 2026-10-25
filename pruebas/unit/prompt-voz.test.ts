@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Prompts al compás de tu voz (revisión de la v11 de un reel de prueba, 2026-10-04): el director escribe en la EDL un horario
  * de escritura por tarjeta prompt (cada palabra aparece cuando la dices), el corte entre dos partes cae cuando

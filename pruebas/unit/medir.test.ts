@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la medición de subtítulos (Fase 1), todas puras (sin Vision, sin ffmpeg, sin red):
  * - herramientas/lib/color.ts: sRGB ↔ Lab y ΔE2000 contra los 34 pares de Sharma, Wu y Dalal (2005).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Zona segura de Instagram Reels (guía pública de 2025) y la decisión de zona de un estilo sobre lo medido (aquí, una
  * de prueba: subtítulos en y = 1545, tarjetas y stickers 46.5 px más abajo, tarjetas más chicas y con menos relleno),

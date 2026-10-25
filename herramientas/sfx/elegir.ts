@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Selector de SFX: a cada evento de la edición (sticker, tarjeta, insert, zoom, titular) le toca un SFX del
  * catálogo o silencio. Variado, a veces callado, determinista con su semilla.

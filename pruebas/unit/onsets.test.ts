@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/onsets.ts, todas puras (sin ffmpeg, sin red): FFT, espectrograma, filtros,
  * cuantiles locales y cada detector sobre audio sintético (ruido con ritmo de habla + SFX conocidos).

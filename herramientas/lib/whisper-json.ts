@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Parser de la salida `-ojf` (JSON completo) de whisper-cli 1.8.4 → palabras con tiempos.
  *

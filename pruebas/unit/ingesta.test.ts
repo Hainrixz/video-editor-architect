@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas del módulo de ingesta y base:
  * - sondear() contra el fixture real pruebas/fixtures/clip-6s.mp4;

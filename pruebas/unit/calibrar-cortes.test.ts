@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/estilo/calibrar-cortes.ts (calibración de los cortes con tus pares crudo ↔ publicado) y de
  * la lectura de estilo/calibracion-cortes.json en herramientas/cortes.ts.

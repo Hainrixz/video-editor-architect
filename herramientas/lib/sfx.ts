@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * SFX del editor: lo que comparten el catálogo (herramientas/sfx/catalogar.ts), la síntesis
  * (herramientas/sfx/sintesis.ts) y el selector (herramientas/sfx/elegir.ts).

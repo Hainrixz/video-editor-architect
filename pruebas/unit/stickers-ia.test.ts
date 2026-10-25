@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Stickers de IA (Higgsfield → ia-post.ts → biblioteca/stickers/ia): solo entran forzados en notas-director.json.
  */

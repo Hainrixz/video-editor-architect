@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Estilo que usan el director, el layout y validar.ts: ritmo, duraciones, tamaños, posiciones y zonas, cada número
  * con su n y su fuente (regla 4 de la casa: lo que no se midió es N/A o un supuesto que lo dice).

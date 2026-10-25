@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Ancho de un texto medido con fontkit sobre el MISMO archivo de fuente que carga el render
  * (src/estilo/fuentes.ts → biblioteca/fuentes/…), a un tamaño dado y con el borde incluido.

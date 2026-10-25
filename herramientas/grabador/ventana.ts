@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Graba UNA ventana (Terminal, una app nativa…) y revisa el MP4.
  *   - macOS: con GrabadorVentana.app (ScreenCaptureKit), como se describe abajo.

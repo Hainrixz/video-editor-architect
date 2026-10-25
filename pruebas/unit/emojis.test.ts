@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Emojis animados (Noto Emoji Animation, CC BY 4.0): lectura de WebP animado (info de webpmux, PAM), composición con
  * fusión y desecho, borde fijo en un lienzo cuadrado común, catálogo para el director (compiten por concepto y se

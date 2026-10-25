@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Trazos de los motion graphics flotantes: polilíneas con su largo (para dibujarlas con strokeDashoffset y saber dónde
  * va la punta de la pluma), un óvalo hecho a mano, la superelipse de las esquinas continuas de Apple y la gráfica de

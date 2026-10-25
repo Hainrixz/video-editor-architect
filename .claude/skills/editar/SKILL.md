@@ -3,6 +3,7 @@ name: editar
 description: Edits a creator's reel end to end with their style (cuts, subtitles, title, keyword cards, typed prompts, stickers, SFX, screen demos) and delivers the final MP4. Edita un reel de principio a fin con el estilo del creador y entrega el MP4 final. Use with /editar <video>, or when they say "edit", "edit this video", "make the reel from this raw", "edit it like my reels", "edita este video", "hazme el reel de este crudo", "edítalo como mis reels".
 argument-hint: "<path to raw video> [notes: topic, demo URL, keywords]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /editar <crudo>
 

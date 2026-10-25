@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * aprender.ts: /aprender-estilo de punta a punta (Fase 2, cierre). Mide lo que falte en tus reels publicados y arma
  * estilo/estilo.json, estilo/momentos.jsonl y estilo/informe.md (con agregar.ts).

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/grabador/eventos.ts (y de las partes puras de captura.ts):
  * - compresión de tiempos muertos > 400 ms → keep[] en cuadros de 30 fps, válido para remapear.ts

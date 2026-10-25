@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Compila herramientas/vision/recortar.swift → herramientas/bin/recortar (alfa de stickers con Apple Vision).
 #
 #   sh herramientas/vision/compilar-recortar.sh

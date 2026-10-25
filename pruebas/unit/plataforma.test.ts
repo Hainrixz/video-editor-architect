@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Capa multiplataforma (herramientas/lib/plataforma.ts) y lo que depende del sistema en doctor.ts, grabador/ventana.ts,
  * grabador/estudio.ts y cara.ts (--mascara). Todo puro o con carpetas temporales: corre igual en macOS, Windows y Linux.

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Titular BORRADOR: 2 renglones (≤ 24 caracteres cada uno) sacados del gancho (la primera cláusula). Claude lo reescribe
  * con tu voz (voice.md: hooks con número, "tú/tu" o tensión; nada de la lista "Prohibido") y lo deja en

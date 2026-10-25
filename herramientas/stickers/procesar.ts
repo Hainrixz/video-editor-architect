@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * procesar.ts (fuente 3 de stickers): tus PNG o JPG hechos en ChatGPT → stickers con alfa, borde y sombra.
  *

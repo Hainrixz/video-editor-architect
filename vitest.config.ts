@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {defineConfig} from 'vitest/config';
 
 // Pruebas unitarias del editor: corren en Node, sin red y sin tocar tus archivos originales.

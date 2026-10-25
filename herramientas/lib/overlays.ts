@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Capas (overlays) de un reel: stickers, tarjetas e inserts que APARECEN, se quedan quietos mientras tú te mueves,
  * y DESAPARECEN. Todo en coordenadas base 1080×1920.

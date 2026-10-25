@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * vivo.ts: arma una versión NUEVA de un reel con el estilo "texto vivo" (estilo/estilos/estilo-texto-vivo/) a partir de
  * una versión ya hecha y de las notas de ese estilo. Nunca sobrescribe: escribe la siguiente edicion-vN.json libre.

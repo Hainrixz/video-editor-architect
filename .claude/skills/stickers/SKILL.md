@@ -3,6 +3,7 @@ name: stickers
 description: Makes or processes stickers for the creator's reels from licensed brand logos and their own PNG images. Crea o procesa stickers para los reels con logos de marca con licencia y PNG propios del creador. Use with /stickers or when they say "make me a sticker of…", "add the logo of…", "process my stickers", "hazme un sticker de…", "agrega el logo de…", "procesa mis stickers".
 argument-hint: "logo <brand> | procesar <folder>"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /stickers
 

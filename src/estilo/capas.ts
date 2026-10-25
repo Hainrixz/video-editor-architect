@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Estilos y valores por defecto de las capas del reel: titular, tarjetas, stickers e inserts (más los parámetros
  * del zoom y del desenfoque). Todo en px de la base 1080×1920.

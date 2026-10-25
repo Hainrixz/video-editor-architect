@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * avatar.ts: sticker de una persona que mencionas (su foto o avatar público), con el mismo look que los logos:
  *   - "tile": cuadro blanco redondeado con el avatar en círculo y su nombre abajo (como el tile de Claude).

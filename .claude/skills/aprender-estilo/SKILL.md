@@ -3,6 +3,7 @@ name: aprender-estilo
 description: Learns the creator's editing style from their OWN published reels (subtitles, title, cards, stickers, SFX, inserts, framing, pace) and writes it to estilo/estilo.json and a style profile. Aprende el estilo de edición del creador desde sus propios reels publicados. Use with /aprender-estilo or when they say "learn my style", "learn from my new reels", "what do I do in my best reels", "update my style", "aprende mi estilo", "actualiza mi estilo", "aprende de mis reels nuevos".
 argument-hint: "[--reels a,b] [--rehacer]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-2f298797 -->
 
 # /aprender-estilo
 

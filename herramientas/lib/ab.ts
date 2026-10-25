@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * A/B: el render contra el reel que el creador publicó en Instagram (criterios de la Fase 1 en los pares).
  *

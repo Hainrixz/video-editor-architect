@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * corpus.ts: el corpus de los reels publicados del creador (Fase 2). Une tus fuentes por shortCode filtrando por dueño, se
  * queda con la captura más reciente de cada reel, arma el ranking por puntaje y, con --muestra, elige la muestra

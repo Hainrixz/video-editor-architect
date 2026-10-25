@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Capa multiplataforma (macOS, Windows y Linux): qué sistema es, dónde están los programas y los modelos, y con
  * qué motor se hace la visión (OCR, cara y silueta).

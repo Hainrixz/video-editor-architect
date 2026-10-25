@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Curvas de animación (src/estilo/animaciones.ts) y estilos de las capas (src/estilo/capas.ts).
  * Son funciones puras: corren dentro del sandbox, sin Chrome ni GPU.

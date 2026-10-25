@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Estilo "texto vivo" (estilo/estilos/estilo-texto-vivo/, en prueba desde el 2026-10-04): se ve al creador, el texto
  * lo sigue y a la vez hay titulares, texto alrededor, muchas animaciones de texto y otros elementos que aparecen. Las

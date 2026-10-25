@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * referencia.ts: prepara un reel de REFERENCIA para entrenar un estilo nuevo (/entrenar-estilo). Mide el ritmo de
  * cortes y arma las hojas de contacto que Claude mira para ver lo que al creador le gusta. Todo local y gratis.

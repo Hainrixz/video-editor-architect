@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/fallo.ts: el formato de una sola frase con "Siguiente paso:"
  * y los códigos de salida de correr() (1 interno, 2 entrada, 3 servicio/llave/gasto).

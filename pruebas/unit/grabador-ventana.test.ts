@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/grabador/ventana.ts (Fase 7, grabador de UNA ventana): lo que no necesita abrir la app.
  * Argumentos, pedido, argumentos de `open`, lectura del resultado, revisión del MP4 (CFR, cuadros, tamaño) y la

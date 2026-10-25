@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 """
 Caras y barbilla de cuadros crudos con MediaPipe (Face Landmarker, 478 puntos, + Face Detector para la confianza
 + Image Segmenter "selfie" para la silueta): el par multiplataforma de herramientas/vision/cara.swift.

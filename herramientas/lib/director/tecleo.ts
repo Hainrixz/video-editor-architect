@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * La regla del prompt (decisión del estilo, 2026-10-04): cuando dices "le dices a Claude", va el cuadrito blanco (tarjeta variante
  * "prompt") escribiéndose letra por letra, con el sonido de las teclas, para que la gente lo pueda copiar.

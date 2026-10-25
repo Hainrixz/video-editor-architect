@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * creador.json (herramientas/lib/creador.ts): valores neutros sin archivo, código 2 con un archivo malo, rutas con ~,
  * el handle que piden el corpus y emparejar, y las fuentes de SFX que salen de ahí (lib/sfx.ts).

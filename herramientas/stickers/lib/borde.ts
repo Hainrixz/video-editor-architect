@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Borde tipo sticker y sombra, más lo mínimo de imagen que comparten las 4 fuentes de stickers
  * (voxel, logos, tus PNG de ChatGPT y los de Higgsfield). Todo es puro y determinista: corre dentro del

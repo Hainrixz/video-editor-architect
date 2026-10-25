@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Saca id + título de los GIFs de una búsqueda de Giphy (el HTML de giphy.com/search/<término>, que llega por stdin).
  * Node no pasa por el proxy del sandbox, así que la página la baja curl:

@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Arma herramientas/bin/GrabadorVentana.app (Swift + ScreenCaptureKit) y la firma ad-hoc con codesign.
 #
 #   sh herramientas/grabador-app/construir.sh            # compila solo si algo cambió

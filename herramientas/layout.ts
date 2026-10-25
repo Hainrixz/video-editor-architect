@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * layout.ts — todo DEBAJO de tu boca (la zona protegida de tu cara), fuera de la franja de subtítulos y dentro de la
  * zona segura de Instagram.

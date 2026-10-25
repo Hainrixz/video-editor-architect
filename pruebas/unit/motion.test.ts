@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Motion graphics propios (src/estilo/motion.ts): contrato en la EDL, valores por defecto, curvas, líneas de tiempo y
  * cajas. Lo visual se revisó renderizando cada motion; aquí se prueba que los números hagan lo que dicen los comentarios.

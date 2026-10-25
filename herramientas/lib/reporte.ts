@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Reporte de cada proyecto: proyectos/<slug>/reporte.md (lo que lees) y reporte.json (los datos con que se arma).
  *

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Inicio real de la voz por energía: corrige el inicio de las palabras que arrancan después de una pausa.
  *

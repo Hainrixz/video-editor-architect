@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/grabador/secretos.ts:
  * - Patrones de secretos con positivos (cada familia del plan) y negativos (palabras y textos de GitHub que no lo son).

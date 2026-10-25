@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Plan de zoom, cursor sintético y ondas de clic de una demo de pantalla (Fase 5).
  *

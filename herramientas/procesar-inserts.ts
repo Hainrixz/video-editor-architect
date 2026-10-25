@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * procesar-inserts.ts — Fase 4: tu material (capturas y B-roll) listo para la edición.
  *

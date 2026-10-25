@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Contrato entre los dos motores de visión: los scripts de Python (herramientas/py/*.py) deben escribir EXACTAMENTE
  * la forma de los binarios de Apple Vision (herramientas/vision/*.swift) que leen lib/ocr.ts y lib/cara.ts.

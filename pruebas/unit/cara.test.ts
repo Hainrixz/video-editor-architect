@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la parte pura de la cara (herramientas/lib/cara.ts y los ayudantes de herramientas/cara.ts):
  * elección de la cara principal, interpolación, suavizado que se reinicia en los cortes, coronilla y lados

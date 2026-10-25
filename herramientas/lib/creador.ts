@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Quién es el creador: `creador.json` en la raíz del repo (en la plantilla viene `creador.example.json` para copiarlo).
  * Es lo único personal que necesita el motor: nombre, handle, idioma, estilo activo, de dónde sale el corpus de sus

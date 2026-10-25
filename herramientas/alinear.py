@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 """
 alinear.py — alineación forzada (CTC) de un texto contra su audio, palabra por palabra.
 

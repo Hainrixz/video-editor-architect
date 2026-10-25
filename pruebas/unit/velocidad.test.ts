@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la VELOCIDAD de la base (×F, como tú aceleras tus reels: ×1.05–×1.15, mediana ×1.096 en tus 4 pares).
  *

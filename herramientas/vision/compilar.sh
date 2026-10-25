@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Compila las herramientas de Vision en Swift → herramientas/bin/<nombre>.
 #
 #   herramientas/vision/compilar.sh            # compila ocr (lo único que existe en la Fase 1)

@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Fuentes candidatas para los subtítulos (todas OFL-1.1, de github.com/google/fonts).
 #
 #   sh biblioteca/fuentes/preparar.sh            (desde la raíz del proyecto)

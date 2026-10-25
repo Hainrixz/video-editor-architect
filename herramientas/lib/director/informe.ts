@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * direccion.md: el plan del director en español, para que Claude lo revise y decida. Cada momento con la palabra que
  * lo dispara, qué se eligió, por qué y sus alternativas; lo que se descartó y por qué; el modo de cerca y los momentos

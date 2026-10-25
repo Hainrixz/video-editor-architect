@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+# SPDX-License-Identifier: MIT
+# id: er-2f298797
 # Fuente monoespaciada de la terminal animada (src/reel/TerminalAnimada.tsx): JetBrains Mono, OFL-1.1.
 #
 #   sh biblioteca/fuentes/jetbrains-mono/preparar.sh            (desde la raíz del proyecto)

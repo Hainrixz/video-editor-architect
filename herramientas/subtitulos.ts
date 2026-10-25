@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Subtítulos (etapa 9 de /editar): agrupa las palabras de la base en subtítulos de una línea de 2–3 palabras.
  *

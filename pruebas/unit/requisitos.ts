@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Lo que algunas pruebas necesitan y no viaja con la plantilla (o no está recién clonado el repo): las fuentes .ttf
  * (se bajan con `sh biblioteca/fuentes/preparar.sh`), los fixtures de video (pruebas/fixtures/) y los catálogos con

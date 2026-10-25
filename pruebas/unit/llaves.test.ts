@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/lib/llaves.ts con un HOME temporal y un .env FALSO.
  * os.homedir() está simulado para que ninguna prueba pueda abrir tu ~/.config/claude-editor/.env real,

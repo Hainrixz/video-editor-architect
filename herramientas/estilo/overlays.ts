@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * overlays.ts: detecta en un reel CUÁNDO y DÓNDE aparecen stickers, tarjetas e inserts, cómo entran (pop) y si
  * suena un SFX al aparecer.

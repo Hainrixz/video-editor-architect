@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de herramientas/estilo/corpus.ts (corren dentro del sandbox: sin red, sin ffprobe real):
  * - filtro por dueño con datos sintéticos que traen otra cuenta, items sin dueño y archivos comp_*;

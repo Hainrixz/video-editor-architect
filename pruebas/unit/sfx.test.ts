@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de la biblioteca de SFX y del selector (Fase 3):
  * - lib/sfx.ts: semilla, conteo de fuentes (síntesis máx. 2, variantes y pendientes no cuentan), mapeo sin

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * perfil-x.ts: sticker "tarjeta de perfil" estilo X (Twitter) de una persona que mencionas: banner, foto en círculo,
  * nombre, @usuario, su sitio y el botón "Seguir". Decisión del estilo: cuando el creador nombra a alguien, además

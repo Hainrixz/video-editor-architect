@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {describe, expect, it} from 'vitest';
 import type {Wav} from '../../herramientas/lib/energia';
 import {ajustarInicios, analizarSenal, detectarArranque, OPCIONES_INICIO_VOZ} from '../../herramientas/lib/inicio-voz';

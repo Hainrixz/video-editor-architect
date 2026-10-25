@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Hook PreToolUse (matcher Bash) del editor de video / PreToolUse hook for Bash.
  * Only watches playwright-cli (allow-list of verbs and options) so nothing can read cookies or sessions.

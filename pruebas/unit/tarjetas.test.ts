@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Tarjetas de la Fase 3: escritura letra por letra (src/estilo/animaciones.ts), variante "prompt" y listas en árbol con
  * `fila` (src/estilo/capas.ts). Todo puro: corre dentro del sandbox, sin Chrome. El render se revisa en

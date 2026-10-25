@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * El borrador del director: junta los momentos del transcript, los acomoda en el tiempo (ritmo medido, separación
  * mínima, una capa a la vez en la zona libre debajo de tu boca) y los coloca con el layout. Lo que Claude decide a

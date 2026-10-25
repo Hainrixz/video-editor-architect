@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /** Sticker de persona (herramientas/stickers/avatar.ts): tipo de imagen y tile con el avatar en círculo. */
 import {join} from 'node:path';
 import {describe, expect, it} from 'vitest';

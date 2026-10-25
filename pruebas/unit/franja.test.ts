@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Franja de legibilidad de subtítulos sobre demos a pantalla completa (src/estilo/franja.ts).
  * Decisión de legibilidad 2026-10-04, no medida en tus reels: aquí solo se prueba que la geometría y el filtro hagan

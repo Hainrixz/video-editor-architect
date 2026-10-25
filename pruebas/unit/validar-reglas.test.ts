@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Pruebas de las reglas de validar.ts (Fase 3): cada regla hace FALLAR una EDL que la rompe, con su número y su origen
  * ("[R1] k1: invade la cara 42 px en t=12.3 s (…)"), y deja pasar una que la cumple. Incluye los criterios del plan:

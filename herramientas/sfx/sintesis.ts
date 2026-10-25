@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Síntesis propia de SFX con ffmpeg `aevalsrc` (licencia tuya: no viene de terceros).
  *

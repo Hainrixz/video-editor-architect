@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Color para medir subtítulos: sRGB ↔ CIELAB (D65, observador 2°) y diferencia de color ΔE2000.
  *

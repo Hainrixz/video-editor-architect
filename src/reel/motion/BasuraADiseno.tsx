@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import React from 'react';
 import {spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {COLORES_MOTION as C, ESCENA, avance, entrada, lineaBasura, CURVAS, type BasuraResuelto} from '../../estilo/motion';

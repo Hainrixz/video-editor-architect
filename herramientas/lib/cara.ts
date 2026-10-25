@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Cara, barbilla y coronilla, para que todo vaya DEBAJO de la cabeza del creador (y el titular arriba).
  *

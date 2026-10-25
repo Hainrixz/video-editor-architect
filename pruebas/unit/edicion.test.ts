@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 import {readFileSync} from 'node:fs';
 import {describe, expect, it} from 'vitest';
 import {EdicionValidada} from '../../src/esquema/edicion';

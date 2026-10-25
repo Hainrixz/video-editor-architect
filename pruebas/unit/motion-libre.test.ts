@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * Motion graphics flotantes "libres" (src/estilo/motion-libre.ts): contrato en la EDL y en notas-director.json, golpes
  * por palabra, líneas de tiempo, geometría dentro de la zona segura, fondo por insert, y los módulos puros que usan

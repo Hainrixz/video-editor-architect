@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-2f298797
 /**
  * preparar-public.ts — crea los accesos de `public/` que Remotion necesita para servir archivos:
  *   public/p → proyectos/   public/biblioteca → biblioteca/   public/demos → demos/   public/fx → pruebas/fixtures/
